@@ -1,0 +1,15 @@
+TMP=$(mktemp -dt "fmec")
+SN="$TMP/$$.json"
+echo $SN
+echo $TMP
+zip $TMP/in.zip $1
+ls -l $TMP/in.zip >> /Users/ralph/Temp/fmec.log
+echo Posting $1...
+http --verbose --timeout 6000 --session $SN -f POST vectorklic.a10cloud.nl/GeoFormats/rest/sources files@$TMP/in.zip
+echo Requesting $2...
+http --verbose --timeout 6000 --session $SN GET vectorklic.a10cloud.nl/GeoFormats/rest/features?format=$2 --output $TMP/out.zip
+cp $TMP/out.zip $1-$2.zip
+ls -l $1-$2.zip >> /Users/ralph/Temp/fmec.log
+echo Cleaning up...
+rm -Rf $TMP
+echo Ready
