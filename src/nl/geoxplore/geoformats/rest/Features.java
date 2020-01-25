@@ -39,9 +39,13 @@ public class Features {
 	public Response get(@QueryParam("format") String format) throws IOException, FMEException {
 		File destDir = Directory.createTempDirectory("geoformats-", ".dest");
 		Session session = Session.get(this.request.getSession());
+		String ext = "";
 
 		if (format == null || format.equals("")) {
 			format = "SHAPE";
+		} else if(format.equals("ACADXF")) {
+			format = "ACAD";
+			ext = ".dxf";
 		}
 
 		try {
@@ -53,7 +57,7 @@ public class Features {
 				for (j = (arrayOfString = source.listDatasets()).length, b = 0; b < j;) {
 					String name = arrayOfString[b];
 					File sourceFile = new File(dir, name);
-					File destFile = new File(destDir, name);
+					File destFile = new File(destDir, name + ext);
 
 					int i = 2;
 					while (destFile.exists()) {
@@ -84,6 +88,9 @@ public class Features {
 			Response response = Response.ok(stream, "application/zip").build();
 			FileUtils.delete(destDir, true);
 			return response;
+		} catch(RuntimeException e) {
+			e.printStackTrace();
+			throw e;
 		} finally {
 			FileUtils.delete(destDir, true);
 		}
