@@ -55,8 +55,7 @@ public class FileUtils {
 	 * @param recursively
 	 * @throws IOException
 	 */
-	static public void zip(File src, File dest, boolean recursively)
-			throws IOException {
+	static public void zip(File src, File dest, boolean recursively) throws IOException {
 
 		FileOutputStream fos = new FileOutputStream(dest);
 		try {
@@ -73,8 +72,7 @@ public class FileUtils {
 	 * @param recursively
 	 * @throws IOException
 	 */
-	static public void zip(File src, OutputStream fos, boolean recursively)
-			throws IOException {
+	static public void zip(File src, OutputStream fos, boolean recursively) throws IOException {
 
 		List<File> files = new ArrayList<>();
 		int start;
@@ -96,8 +94,7 @@ public class FileUtils {
 				} else {
 					FileInputStream fis = new FileInputStream(file);
 					try {
-						zos.putNextEntry(new ZipEntry(file
-								.getAbsolutePath().substring(start)));
+						zos.putNextEntry(new ZipEntry(file.getAbsolutePath().substring(start).replace("\\", "/")));
 						InputStream.toOutputStream(fis, zos, 2048);
 						zos.closeEntry();
 					} finally {
