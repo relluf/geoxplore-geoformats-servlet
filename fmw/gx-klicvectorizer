@@ -1,0 +1,5 @@
+echo ---------------- >> /Users/ralph/log
+echo $1 >> /Users/ralph/log
+echo $2 >> /Users/ralph/log
+/Library/FME/2019.2/fme /Users/ralph/Workspaces/geoxplore.nl/klicvectorizer/klicvectorizer-fme/KV.fmw --GML_INPUT_FILE "$1" --DGN_DEST_DIR "$2" --DXF_DEST_DIR "$2" >> /Users/ralph/log 2>&1
+echo ---------------- >> /Users/ralph/log
