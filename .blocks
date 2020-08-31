@@ -1,0 +1,10 @@
+"use js";
+
+["Container", [
+
+	["devtools/Iframe", {
+		vars: "frame-src://vectorklic.a10cloud.nl/GeoFormats;"
+		// vars: "frame-src: //vectorklic.a10cloud.nl/GeoFormats/rest/features/?format=ACADXF;"
+	}]
+	
+]];
