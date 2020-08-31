@@ -14,14 +14,14 @@
 #!   DESCRIPTION=""
 #!   DESTINATION="NONE"
 #!   DESTINATION_ROUTING_FILE=""
-#!   DOC_EXTENTS="4146.36 1584.69"
-#!   DOC_TOP_LEFT="-3993.91 -569.059"
+#!   DOC_EXTENTS="5399.82 1814.86"
+#!   DOC_TOP_LEFT="-5076.35 -423.317"
 #!   END_PYTHON=""
 #!   END_TCL=""
 #!   EXPLICIT_BOOKMARK_ORDER="false"
 #!   FME_BUILD_NUM="19813"
-#!   FME_DOCUMENT_GUID="f4502487-c5dc-4cb6-8992-d195121b5819"
-#!   FME_DOCUMENT_PRIORGUID="719a186e-0baa-48e9-afcb-379deae6a30e,e93dccb1-d967-4a4e-9918-17a98f310d3a,1eadab68-ba21-4148-8463-606cdc2a19c6,8d199243-bef7-425a-ad27-a3a9ceed792f,b8fff40b-a1d8-458c-9b4f-25097dbea8c6,6f714b57-16f9-4c0f-aaeb-c89fa5ff58e9,1c41c88b-4a17-47db-a8e7-7e4ebdec0ce1,1a659d8e-ff3d-4a26-a9ab-3165dfa28758,de27c5b5-3e53-4a0d-8b91-5d879e6ff28b,a58af10c-3cb7-4b3b-a542-10bae4576b7f,ecb6cc86-f55b-4b4b-aa8b-e1cbc4cbefd9,a3776ce5-b57e-463f-9572-6f5e6c1d4435,7689f143-cddc-42ca-b95b-947c6bd42c5e,a88c41dc-a1fb-4461-9c79-91f706093c7a,52fa41ff-6ab8-4ab1-937c-786f4dd2ccbb,c45892f3-f66f-4729-aafb-f10dcd658fbb,84f3c508-0a94-4849-97e2-df7ca611bbba,c6c1bf4a-1656-4a77-a776-cfe654774ac9,5701cf69-8169-40fd-91f9-105b45e1cbee,011efefc-52e0-4b0a-8df3-21613535a08d,4f400f93-e2e3-4563-bda3-7b640199e531,794c2b06-432f-4d30-9d54-434688458610,8dd78fc3-b30a-406a-b795-92088b9c49fb"
+#!   FME_DOCUMENT_GUID="2f55feae-1752-4612-8dfc-ff027edf292b"
+#!   FME_DOCUMENT_PRIORGUID="719a186e-0baa-48e9-afcb-379deae6a30e,e93dccb1-d967-4a4e-9918-17a98f310d3a,1eadab68-ba21-4148-8463-606cdc2a19c6,8d199243-bef7-425a-ad27-a3a9ceed792f,b8fff40b-a1d8-458c-9b4f-25097dbea8c6,6f714b57-16f9-4c0f-aaeb-c89fa5ff58e9,1c41c88b-4a17-47db-a8e7-7e4ebdec0ce1,1a659d8e-ff3d-4a26-a9ab-3165dfa28758,de27c5b5-3e53-4a0d-8b91-5d879e6ff28b,a58af10c-3cb7-4b3b-a542-10bae4576b7f,ecb6cc86-f55b-4b4b-aa8b-e1cbc4cbefd9,a3776ce5-b57e-463f-9572-6f5e6c1d4435,7689f143-cddc-42ca-b95b-947c6bd42c5e,a88c41dc-a1fb-4461-9c79-91f706093c7a,52fa41ff-6ab8-4ab1-937c-786f4dd2ccbb,c45892f3-f66f-4729-aafb-f10dcd658fbb,84f3c508-0a94-4849-97e2-df7ca611bbba,c6c1bf4a-1656-4a77-a776-cfe654774ac9,5701cf69-8169-40fd-91f9-105b45e1cbee,011efefc-52e0-4b0a-8df3-21613535a08d,4f400f93-e2e3-4563-bda3-7b640199e531,794c2b06-432f-4d30-9d54-434688458610,8dd78fc3-b30a-406a-b795-92088b9c49fb,f4502487-c5dc-4cb6-8992-d195121b5819,c2a8dd32-85d8-42cb-81ee-f7219aeedaf0"
 #!   FME_GEOMETRY_HANDLING="Enhanced"
 #!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
 #!   FME_REPROJECTION_ENGINE="FME"
@@ -30,7 +30,7 @@
 #!   HISTORY=""
 #!   IGNORE_READER_FAILURE="No"
 #!   LAST_SAVE_BUILD="FME(R) 2019.2.1.0 (20191202 - Build 19813 - WIN64)"
-#!   LAST_SAVE_DATE="2020-07-08T05:46:31"
+#!   LAST_SAVE_DATE="2020-07-15T23:04:40"
 #!   LOG_FILE=""
 #!   LOG_MAX_RECORDED_FEATURES="200"
 #!   MARKDOWN_DESCRIPTION=""
@@ -49,10 +49,10 @@
 #!   TITLE=""
 #!   USAGE=""
 #!   USE_MARKDOWN=""
-#!   VIEW_POSITION="-4140.67 1087.25"
+#!   VIEW_POSITION="-3603.16 1550.02"
 #!   WARN_INVALID_XFORM_PARAM="Yes"
 #!   WORKSPACE_VERSION="1"
-#!   ZOOM_SCALE="96"
+#!   ZOOM_SCALE="100"
 #! >
 #! <DATASETS>
 #! <DATASET
@@ -68,7 +68,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_fill_color xml_char(50) gml_original_coordinate_system xml_char(64) xml_type xml_char(50) fme_primary_axis xml_real64 fme_geometry xml_char(50) fme_basename xml_char(50) fme_start_angle xml_real64 xml_ns_uri xml_char(254) multi_reader_keyword xml_char(50) gml_srsName xml_char(64) gml_parent_property xml_char(254) multi_reader_type xml_char(50) fme_rotation xml_real64 multi_reader_full_id xml_int32 fme_type xml_char(50) gml_id xml_char(254) gml_parent_id xml_char(254) fme_color xml_char(50) fme_text_string xml_char(50) fme_feature_type xml_char(50) fme_secondary_axis xml_real64 multi_reader_id xml_int32 fme_dataset xml_char(50) fme_text_size xml_real64 fme_sweep_angle xml_real64"
+#!   EXPOSABLE_ATTRS="fme_color xml_char(50) gml_srsName xml_char(64) fme_primary_axis xml_real64 fme_dataset xml_char(50) multi_reader_id xml_int32 fme_rotation xml_real64 fme_start_angle xml_real64 gml_parent_id xml_char(254) fme_sweep_angle xml_real64 fme_fill_color xml_char(50) fme_text_string xml_char(50) fme_type xml_char(50) gml_original_coordinate_system xml_char(64) multi_reader_keyword xml_char(50) fme_feature_type xml_char(50) multi_reader_type xml_char(50) gml_parent_property xml_char(254) multi_reader_full_id xml_int32 xml_type xml_char(50) fme_basename xml_char(50) gml_id xml_char(254) xml_ns_uri xml_char(254) fme_text_size xml_real64 fme_secondary_axis xml_real64 fme_geometry xml_char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -126,7 +126,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_fill_color xml_char(50) gml_original_coordinate_system xml_char(64) xml_type xml_char(50) fme_primary_axis xml_real64 fme_geometry xml_char(50) fme_basename xml_char(50) fme_start_angle xml_real64 xml_ns_uri xml_char(254) multi_reader_keyword xml_char(50) gml_srsName xml_char(64) gml_parent_property xml_char(254) multi_reader_type xml_char(50) fme_rotation xml_real64 multi_reader_full_id xml_int32 fme_type xml_char(50) gml_id xml_char(254) gml_parent_id xml_char(254) fme_color xml_char(50) fme_text_string xml_char(50) fme_feature_type xml_char(50) fme_secondary_axis xml_real64 multi_reader_id xml_int32 fme_dataset xml_char(50) fme_text_size xml_real64 fme_sweep_angle xml_real64"
+#!   EXPOSABLE_ATTRS="fme_color xml_char(50) gml_srsName xml_char(64) fme_primary_axis xml_real64 fme_dataset xml_char(50) multi_reader_id xml_int32 fme_rotation xml_real64 fme_start_angle xml_real64 gml_parent_id xml_char(254) fme_sweep_angle xml_real64 fme_fill_color xml_char(50) fme_text_string xml_char(50) fme_type xml_char(50) gml_original_coordinate_system xml_char(64) multi_reader_keyword xml_char(50) fme_feature_type xml_char(50) multi_reader_type xml_char(50) gml_parent_property xml_char(254) multi_reader_full_id xml_int32 xml_type xml_char(50) fme_basename xml_char(50) gml_id xml_char(254) xml_ns_uri xml_char(254) fme_text_size xml_real64 fme_secondary_axis xml_real64 fme_geometry xml_char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -184,7 +184,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="autocad_color 10 autocad_linetype CONTINUOUS autocad_layer_frozen no autocad_layer_hidden no autocad_layer_locked no autocad_layer_on yes autocad_layer_plottable yes autocad_layer_desc &quot;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="autocad_defpt4.x number(31,15) autocad_flag number(6,0) autocad_alignment_x number(31,15) fme_attrib_info{}.color.red number(31,15) fme_rotation number(31,15) autocad_mpolygon_pattern_color char(50) autocad_true_type_font char(50) fme_attrib_info{}.oblique number(31,15) autocad_viewport_width number(31,15) fme_attrib_info{}.location_z number(31,15) fme_geometry char(50) autocad_hatch_pixel_size number(31,15) autocad_num_lines number(5,0) autocad_lineweight char(10) autocad_start_angle number(31,15) autocad_visible_attributes{} char(50) autocad_viewport_ucs_xdir_x number(31,15) autocad_viewport_back_clip_distance number(31,15) autocad_viewport_ucs_origin_z number(31,15) autocad_text_midpoint.y number(31,15) fme_attrib_info{}.height number(31,15) autocad_group_name char(50) autocad_start_width number(31,15) autocad_mpolygon_origin_point_y number(31,15) autocad_shape_rotation number(31,15) fme_attrib_info{}.width_factor number(31,15) autocad_mpolygon_gradient_type number(6,0) autocad_defpt4.z number(31,15) autocad_viewport_front_clip logical autocad_closed_spline number(6,0) autocad_viewport_anno_scale_paper_units number(31,15) autocad_box_height number(31,15) fme_attrib_info{}.color.source char(10) autocad_big_fontname char(65) fme_attrib_info{}.generation char(25) autocad_path_type char(10) autocad_viewport_handle char(50) autocad_raster_display_opt_transparent logical autocad_dimension_type char(50) autocad_dim_clone_inspection_point.y number(31,15) autocad_mpolygon_pattern_type number(6,0) autocad_base_y number(31,15) autocad_hatch_gradient_type number(6,0) autocad_text_x_pos number(31,15) autocad_edge_1 char(10) autocad_fit_x string autocad_attribute_display char(50) autocad_arc_defpt.z number(31,15) autocad_viewport_ucs_icon_origin logical autocad_hatch_gradient_color1 char(50) autocad_extmin_y number(31,15) autocad_viewport_view_target_x number(31,15) autocad_hatch_gradient_angle number(31,15) autocad_linetype_generation number(1,0) autocad_sweep_angle number(31,15) autocad_viewport_brightness number(31,15) autocad_control_weights string autocad_base_z number(31,15) autocad_normal_z number(31,15) autocad_defpt3.y number(31,15) autocad_extmin_x number(31,15) autocad_viewport_grid_major number(6,0) autocad_shape_filename char(65) fme_sweep_angle number(31,15) autocad_viewport_grid_increment_y number(31,15) autocad_group_num_entities char(50) autocad_insunits number(6,0) autocad_hatch_pattern_type number(6,0) fme_attrib_info{}.field_value char(2049) autocad_txt_offset_z number(31,15) autocad_hatch_shade_tint_value number(31,15) autocad_hatch_gradient_shift number(31,15) autocad_mpolygon_pixel_size number(31,15) autocad_viewport_plot_style_sheet string autocad_dimension_attach_point number(5,0) fme_attrib_info{}.rotation number(31,15) autocad_primary_axis number(31,15) autocad_extrusion_z number(31,15) autocad_line_defpoint.x number(31,15) autocad_hatch_loop{}.autocad_hatch_bulge{} number(31,15) autocad_hatch_origin_point_x number(31,15) autocad_defpt4.y number(31,15) autocad_fillmode logical autocad_knot_tolerance number(31,15) autocad_anno_scale{}.drawing_units number(31,15) autocad_viewport_view_center_x number(31,15) autocad_viewport_shade_plot char(32) fme_secondary_axis number(31,15) autocad_end_tangent_z number(31,15) autocad_anno_scale{}.name string autocad_justification char(50) autocad_block_name char(50) autocad_dim_arrowhead_pt_2.y number(31,15) autocad_hatch_object_type number(6,0) fme_attrib_info{}.style char(512) autocad_scale number(31,15) autocad_mpolygon_pattern_space number(31,15) autocad_hatch_origin_point_y number(31,15) autocad_defpt2.y number(31,15) autocad_original_position_y number(31,15) autocad_fit_tolerance number(31,15) autocad_box_width number(31,15) autocad_group_description char(50) fme_attrib_info{}.attribute_flag char(2) autocad_text_string char(50) autocad_viewport_anno_scale_drawing_units number(31,15) autocad_true_color char(50) autocad_viewport_perspective logical autocad_raster_clip_points{}.y number(31,15) autocad_xref_type char(10) autocad_oblique number(31,15) autocad_original_rotation number(31,15) autocad_viewport_ucs_ydir_x number(31,15) fme_text_size number(31,15) autocad_mpolygon_gradient_one_color_mode number(5,0) autocad_txt_offset_x number(31,15) autocad_edge_3 char(10) autocad_mpolygon_pattern_double number(5,0) autocad_text_midpoint.z number(31,15) autocad_viewport_grid_increment_x number(31,15) autocad_fit_y string autocad_textpict char(50) autocad_hatch_gradient_name char(32) autocad_viewport_grid_follow logical autocad_width_factor number(31,15) autocad_viewport_locked logical autocad_anno_scale{}.paper_units number(31,15) fme_attrib_info{}.field_size number(5,0) fme_type char(50) autocad_yscale number(31,15) autocad_original_entity_type char(50) autocad_original_text_size number(31,15) autocad_linetype_scale number(31,15) fme_attrib_info{}.location_y number(31,15) autocad_mpolygon_object_type number(6,0) autocad_mpolygon_gradient_shift number(31,15) autocad_version char(32) autocad_shape_vertical char(6) autocad_viewport_non_rect_clip logical autocad_text_size number(31,15) autocad_viewport_center_point_z number(31,15) autocad_viewport_snap_increment_x number(31,15) autocad_arrow_head_on logical autocad_txt_offset_y number(31,15) autocad_viewport_grid_adaptive logical autocad_viewport_grid_subdivision_restricted logical autocad_raster_filename string autocad_ucs_xangle number(31,15) autocad_dim_arrowhead_pt_1.x number(31,15) autocad_xref_path string autocad_end_tangent_x number(31,15) autocad_text_midpoint.x number(31,15) autocad_thickness number(31,15) autocad_num_knots number(11,0) autocad_viewport_snap_increment_y number(31,15) autocad_mtext_ref_rect_width number(31,15) autocad_shape_name char(32) autocad_end_tangent_y number(31,15) fme_attrib_info{}.field_name char(513) autocad_num_verts number(5,0) fme_attrib_info{}.layer char(512) autocad_hatch_pattern_angle number(31,15) fme_feature_type char(50) autocad_dim_flag number(5,0) autocad_block_insert_y number(31,15) autocad_viewport_ucs_xdir_z number(31,15) autocad_dim_arrowhead_pt_2.x number(31,15) fme_color char(50) autocad_viewport_standard_scale char(32) autocad_fit_z string autocad_original_position_x number(31,15) autocad_dim_clone_inspection_point.x number(31,15) autocad_mtext_string char(50) autocad_extended_data_list{} char(50) autocad_projectname char(32) autocad_viewport_view_target_z number(31,15) autocad_viewport_ambient_light_color number(6,0) autocad_anno_force_visible logical autocad_defpt2.z number(31,15) autocad_attributes_follow logical autocad_viewport_view_target_y number(31,15) fme_start_angle number(31,15) autocad_attach_point char(50) autocad_defpt3.z number(31,15) autocad_viewport_ucs_origin_x number(31,15) autocad_elevation number(31,15) autocad_hatch_gradient_color2 char(50) autocad_color number(6,0) autocad_mtext_text_height number(31,15) autocad_linespace_factor number(31,15) autocad_mpolygon_gradient_angle number(31,15) autocad_entity_handle char(50) autocad_normal_x number(31,15) autocad_extmax_y number(31,15) autocad_proxygraphics number(6,0) autocad_zscale number(31,15) autocad_mline_type char(50) autocad_raster_contrast number(4,0) autocad_mline_style char(50) autocad_attmode number(6,0) autocad_fill_color number(6,0) autocad_raster_clip_inverted logical autocad_alignment_y number(31,15) fme_attrib_info{}.justification char(25) autocad_hatch_pattern_name char(32) autocad_normal_y number(31,15) autocad_viewport_front_clip_eye logical autocad_block_insert_z number(31,15) autocad_block_insert_x number(31,15) autocad_knot_param char(10) autocad_viewport_non_rect_clip_handle char(50) autocad_longitude number(31,15) autocad_polyflag char(50) autocad_start_tangent_y number(31,15) autocad_line_defpoint.z number(31,15) autocad_defpt2.x number(31,15) autocad_group_anonymous char(50) autocad_raster_fade number(4,0) autocad_alignment_z number(31,15) autocad_linetype char(50) autocad_hatch_loop{}.autocad_hatch_bulges_present number(5,0) autocad_mpolygon_gradient_name char(32) autocad_edge_2 char(10) fme_attrib_info{}.color.green number(31,15) autocad_secondary_axis number(31,15) autocad_invisible_attributes{} char(50) autocad_viewport_height number(31,15) autocad_mpolygon_style number(6,0) autocad_original_layer char(50) autocad_viewport_snap logical autocad_row_distance number(31,15) autocad_shape_height number(31,15) autocad_viewport_view_height number(31,15) autocad_viewport_default_lighting_type number(6,0) autocad_start_tangent_x number(31,15) autocad_auprec number(6,0) autocad_control_x string autocad_store_bulges_mode logical autocad_shape_index number(31,15) autocad_viewport_default_lighting logical autocad_num_cntl_pts number(11,0) autocad_group_selectable char(50) autocad_layer char(50) autocad_generation char(30) autocad_viewport_twist_angle number(31,15) autocad_viewport_ucs_saved_with_viewport logical autocad_line_defpoint.y number(31,15) autocad_viewport_ucs_ydir_z number(31,15) autocad_hatch_complex_mode number(5,0) autocad_viewport_contrast number(31,15) autocad_angdir logical autocad_viewport_view_direction_z number(31,15) autocad_viewport_lens_length number(31,15) autocad_viewport_grid_bound_limits logical autocad_viewport_ucs_follow_mode logical autocad_mpolygon_gradient_color2 char(50) autocad_raster_clip_points{}.x number(31,15) autocad_viewport_custom_scale number(31,15) autocad_dim_arrowhead_pt_1.y number(31,15) autocad_latitude number(31,15) fme_fill_color char(50) autocad_extmax_z number(31,15) autocad_angbase number(31,15) autocad_raster_original_transparency char(50) autocad_mpolygon_shade_tint_value number(31,15) autocad_viewport_back_clip logical autocad_start_tangent_z number(31,15) autocad_base_x number(31,15) autocad_number_rows number(5,0) autocad_raster_transparency number(4,0) autocad_xref_name char(50) autocad_entity char(50) autocad_arc_defpt.y number(31,15) autocad_hatch_pattern_double number(5,0) autocad_viewport_snap_base_point_x number(31,15) fme_dataset char(50) autocad_mpolygon_pattern_name char(32) autocad_size_y number(31,15) autocad_viewport_snap_iso_pair number(6,0) autocad_extmin_z number(31,15) autocad_text_z_pos number(31,15) autocad_viewport_ucs_ydir_y number(31,15) autocad_anno_type char(30) fme_primary_axis number(31,15) autocad_viewport_view_direction_y number(31,15) autocad_viewport_clipped_handle char(50) autocad_group_accessible char(50) autocad_bulge char(50) fme_attrib_info{}.isVisible char(6) autocad_raster_clip_points{}.z number(31,15) autocad_viewport_view_direction_x number(31,15) autocad_xrecord_data_list{} char(50) autocad_mpolygon_pattern_angle number(31,15) autocad_aunits number(6,0) autocad_luprec number(6,0) autocad_hatch_pattern_scale number(31,15) autocad_control_y string autocad_viewport_ucs_elevation number(31,15) autocad_defpt3.x number(31,15) autocad_extmax_x number(31,15) fme_basename char(50) autocad_lunits number(6,0) autocad_mpolygon_origin_point_x number(31,15) autocad_viewport_resolved_target_z number(31,15) autocad_viewport_view_center_y number(31,15) autocad_control_z string autocad_size_x number(31,15) autocad_dimension_style_name char(50) fme_attrib_info{}.align_y number(31,15) autocad_viewport_on logical fme_attrib_info{} char(50) autocad_shape_width number(31,15) autocad_viewport_ucs_origin_y number(31,15) autocad_text_y_pos number(31,15) autocad_viewport_ucs_xdir_y number(31,15) autocad_raster_display_opt_show_unaligned logical autocad_end_width number(31,15) autocad_xscale number(31,15) autocad_rotation number(31,15) autocad_size_z number(31,15) fme_attrib_info{}.location_x number(31,15) autocad_text_rotation number(31,15) autocad_anno_handle char(50) autocad_viewport_center_point_y number(31,15) autocad_rational_spline number(6,0) autocad_original_position_z number(31,15) fme_attrib_info{}.color.blue number(31,15) autocad_num_fit_pts number(11,0) autocad_periodic_spline number(6,0) autocad_raster_display_opt_show logical autocad_dim_clone_inspection_point.z number(31,15) autocad_degree number(31,15) autocad_viewport_ucs_icon_visible logical autocad_raster_brightness number(4,0) autocad_width number(31,15) autocad_mpolygon_pattern_scale number(31,15) autocad_mpolygon_gradient_color1 char(50) autocad_original_text_string string autocad_hatch_pattern_space number(31,15) autocad_hatch_style number(6,0) autocad_viewport_hidden_lines_removed logical autocad_original_entity char(50) autocad_viewport_resolved_target_x number(31,15) autocad_number_columns number(5,0) autocad_arc_defpt.x number(31,15) autocad_viewport_circle_sides number(6,0) autocad_viewport_center_point_x number(31,15) autocad_knots string autocad_extrusion_x number(31,15) fme_attrib_info{}.align_x number(31,15) autocad_edge_4 char(10) autocad_viewport_front_clip_distance number(31,15) autocad_hatch_gradient_one_color_mode number(5,0) autocad_viewport_resolved_target_y number(31,15) autocad_viewport_snap_angle number(31,15) autocad_viewport_snap_isometric logical autocad_extrusion_y number(31,15) autocad_viewport_grid logical fme_text_string char(50) autocad_viewport_snap_base_point_y number(31,15) autocad_viewport_anno_scale string autocad_raster_display_opt_clip logical"
+#!   EXPOSABLE_ATTRS="autocad_size_z number(31,15) autocad_extmax_z number(31,15) autocad_txt_offset_z number(31,15) autocad_original_layer char(50) autocad_hatch_gradient_type number(6,0) autocad_size_x number(31,15) autocad_control_z string autocad_raster_clip_inverted logical autocad_line_defpoint.z number(31,15) autocad_hatch_loop{}.autocad_hatch_bulges_present number(5,0) fme_dataset char(50) autocad_auprec number(6,0) autocad_original_position_y number(31,15) autocad_txt_offset_x number(31,15) autocad_mpolygon_shade_tint_value number(31,15) autocad_longitude number(31,15) autocad_viewport_snap_base_point_y number(31,15) autocad_anno_scale{}.drawing_units number(31,15) autocad_fit_z string fme_attrib_info{}.layer char(512) autocad_viewport_handle char(50) autocad_block_insert_y number(31,15) autocad_dim_clone_inspection_point.x number(31,15) autocad_attribute_display char(50) autocad_alignment_z number(31,15) autocad_viewport_snap_angle number(31,15) autocad_mpolygon_style number(6,0) autocad_width_factor number(31,15) autocad_txt_offset_y number(31,15) autocad_hatch_pattern_space number(31,15) autocad_viewport_standard_scale char(32) autocad_viewport_height number(31,15) autocad_number_rows number(5,0) autocad_mpolygon_pattern_color char(50) autocad_line_defpoint.x number(31,15) autocad_group_accessible char(50) autocad_start_tangent_y number(31,15) autocad_anno_handle char(50) autocad_dimension_attach_point number(5,0) fme_attrib_info{}.style char(512) autocad_defpt3.z number(31,15) autocad_raster_original_transparency char(50) autocad_anno_type char(30) fme_attrib_info{}.field_size number(5,0) autocad_group_num_entities char(50) autocad_viewport_width number(31,15) autocad_text_y_pos number(31,15) autocad_control_x string fme_attrib_info{}.rotation number(31,15) fme_attrib_info{}.field_name char(513) autocad_polyflag char(50) autocad_mpolygon_origin_point_y number(31,15) autocad_mpolygon_origin_point_x number(31,15) fme_rotation number(31,15) autocad_linespace_factor number(31,15) autocad_viewport_grid_subdivision_restricted logical fme_attrib_info{}.location_z number(31,15) autocad_periodic_spline number(6,0) autocad_raster_display_opt_clip logical autocad_linetype_generation number(1,0) autocad_viewport_resolved_target_x number(31,15) autocad_luprec number(6,0) autocad_fit_x string autocad_extmin_y number(31,15) autocad_viewport_clipped_handle char(50) autocad_defpt3.x number(31,15) autocad_num_lines number(5,0) fme_attrib_info{}.attribute_flag char(2) autocad_extmin_z number(31,15) autocad_viewport_view_target_z number(31,15) fme_attrib_info{}.align_y number(31,15) autocad_defpt4.y number(31,15) autocad_block_insert_x number(31,15) autocad_viewport_view_direction_y number(31,15) autocad_end_width number(31,15) autocad_raster_display_opt_transparent logical autocad_dimension_style_name char(50) autocad_raster_transparency number(4,0) autocad_row_distance number(31,15) autocad_viewport_grid_increment_y number(31,15) autocad_store_bulges_mode logical autocad_viewport_anno_scale string fme_type char(50) autocad_insunits number(6,0) fme_attrib_info{}.generation char(25) autocad_xref_type char(10) autocad_flag number(6,0) autocad_text_midpoint.y number(31,15) fme_attrib_info{}.width_factor number(31,15) autocad_angbase number(31,15) autocad_viewport_circle_sides number(6,0) fme_attrib_info{}.color.blue number(31,15) autocad_extmin_x number(31,15) autocad_knot_tolerance number(31,15) fme_attrib_info{} char(50) autocad_layer char(50) autocad_defpt4.z number(31,15) autocad_fit_y string autocad_true_color char(50) autocad_box_width number(31,15) autocad_viewport_ucs_xdir_z number(31,15) autocad_secondary_axis number(31,15) autocad_arc_defpt.x number(31,15) autocad_viewport_shade_plot char(32) autocad_viewport_brightness number(31,15) autocad_start_angle number(31,15) autocad_mpolygon_pattern_name char(32) autocad_hatch_pixel_size number(31,15) autocad_viewport_back_clip logical autocad_end_tangent_y number(31,15) fme_primary_axis number(31,15) fme_secondary_axis number(31,15) fme_attrib_info{}.isVisible char(6) autocad_viewport_grid_major number(6,0) autocad_mpolygon_gradient_angle number(31,15) autocad_hatch_object_type number(6,0) autocad_num_cntl_pts number(11,0) autocad_viewport_ucs_ydir_y number(31,15) autocad_viewport_ucs_ydir_z number(31,15) autocad_proxygraphics number(6,0) autocad_edge_3 char(10) autocad_viewport_front_clip logical autocad_mtext_text_height number(31,15) autocad_raster_contrast number(4,0) autocad_ucs_xangle number(31,15) autocad_elevation number(31,15) autocad_justification char(50) autocad_viewport_non_rect_clip logical autocad_raster_clip_points{}.z number(31,15) autocad_viewport_snap_isometric logical autocad_viewport_anno_scale_paper_units number(31,15) autocad_extrusion_z number(31,15) autocad_anno_force_visible logical autocad_raster_brightness number(4,0) autocad_viewport_ucs_xdir_y number(31,15) autocad_shape_name char(32) autocad_viewport_front_clip_eye logical autocad_visible_attributes{} char(50) autocad_normal_y number(31,15) autocad_dim_arrowhead_pt_1.x number(31,15) autocad_viewport_ucs_origin_z number(31,15) autocad_raster_clip_points{}.x number(31,15) autocad_viewport_lens_length number(31,15) autocad_hatch_gradient_name char(32) autocad_mtext_string char(50) autocad_hatch_pattern_type number(6,0) autocad_xscale number(31,15) autocad_textpict char(50) autocad_dim_clone_inspection_point.z number(31,15) autocad_edge_4 char(10) fme_attrib_info{}.justification char(25) fme_geometry char(50) fme_start_angle number(31,15) autocad_attmode number(6,0) autocad_defpt4.x number(31,15) autocad_viewport_grid_bound_limits logical autocad_lunits number(6,0) autocad_normal_x number(31,15) autocad_control_y string autocad_anno_scale{}.name string autocad_raster_display_opt_show logical autocad_anno_scale{}.paper_units number(31,15) autocad_start_tangent_x number(31,15) autocad_viewport_custom_scale number(31,15) autocad_viewport_plot_style_sheet string autocad_rational_spline number(6,0) autocad_viewport_view_center_x number(31,15) autocad_text_x_pos number(31,15) autocad_closed_spline number(6,0) autocad_shape_height number(31,15) fme_attrib_info{}.location_x number(31,15) autocad_viewport_ucs_origin_y number(31,15) autocad_mpolygon_pattern_angle number(31,15) autocad_version char(32) autocad_hatch_origin_point_x number(31,15) autocad_original_position_x number(31,15) autocad_hatch_shade_tint_value number(31,15) autocad_viewport_twist_angle number(31,15) autocad_raster_clip_points{}.y number(31,15) autocad_scale number(31,15) autocad_degree number(31,15) autocad_text_z_pos number(31,15) autocad_xref_name char(50) autocad_dimension_type char(50) autocad_viewport_center_point_y number(31,15) autocad_hatch_pattern_double number(5,0) autocad_xref_path string autocad_viewport_grid_follow logical autocad_knots string fme_feature_type char(50) autocad_shape_index number(31,15) autocad_latitude number(31,15) autocad_shape_width number(31,15) fme_attrib_info{}.oblique number(31,15) autocad_thickness number(31,15) autocad_extmax_y number(31,15) autocad_viewport_snap_increment_y number(31,15) autocad_dim_clone_inspection_point.y number(31,15) autocad_viewport_resolved_target_y number(31,15) autocad_lineweight char(10) autocad_alignment_y number(31,15) autocad_block_insert_z number(31,15) autocad_viewport_perspective logical autocad_edge_1 char(10) autocad_mpolygon_gradient_one_color_mode number(5,0) fme_attrib_info{}.height number(31,15) autocad_mline_style char(50) autocad_viewport_grid_increment_x number(31,15) autocad_viewport_resolved_target_z number(31,15) autocad_base_y number(31,15) autocad_hatch_gradient_color2 char(50) autocad_sweep_angle number(31,15) autocad_color number(6,0) autocad_big_fontname char(65) fme_fill_color char(50) autocad_mpolygon_gradient_name char(32) autocad_base_x number(31,15) autocad_width number(31,15) autocad_size_y number(31,15) autocad_viewport_view_center_y number(31,15) fme_attrib_info{}.color.green number(31,15) autocad_invisible_attributes{} char(50) autocad_extrusion_y number(31,15) autocad_raster_display_opt_show_unaligned logical autocad_text_midpoint.x number(31,15) autocad_viewport_anno_scale_drawing_units number(31,15) autocad_defpt2.x number(31,15) autocad_path_type char(10) autocad_entity_handle char(50) autocad_zscale number(31,15) autocad_line_defpoint.y number(31,15) autocad_raster_fade number(4,0) autocad_shape_vertical char(6) autocad_num_verts number(5,0) autocad_control_weights string autocad_alignment_x number(31,15) autocad_viewport_default_lighting_type number(6,0) fme_sweep_angle number(31,15) autocad_viewport_on logical autocad_xrecord_data_list{} char(50) autocad_viewport_ambient_light_color number(6,0) autocad_mpolygon_gradient_shift number(31,15) autocad_group_anonymous char(50) autocad_hatch_pattern_name char(32) autocad_viewport_ucs_saved_with_viewport logical autocad_viewport_hidden_lines_removed logical autocad_edge_2 char(10) autocad_viewport_non_rect_clip_handle char(50) autocad_dim_arrowhead_pt_2.y number(31,15) autocad_mline_type char(50) autocad_text_rotation number(31,15) autocad_viewport_snap logical autocad_aunits number(6,0) fme_attrib_info{}.location_y number(31,15) autocad_start_tangent_z number(31,15) fme_attrib_info{}.align_x number(31,15) autocad_hatch_origin_point_y number(31,15) autocad_group_selectable char(50) autocad_viewport_snap_increment_x number(31,15) autocad_viewport_default_lighting logical fme_basename char(50) autocad_text_midpoint.z number(31,15) fme_attrib_info{}.color.source char(10) autocad_group_name char(50) autocad_mtext_ref_rect_width number(31,15) autocad_box_height number(31,15) autocad_viewport_contrast number(31,15) autocad_normal_z number(31,15) autocad_mpolygon_pixel_size number(31,15) autocad_dim_flag number(5,0) autocad_true_type_font char(50) autocad_num_knots number(11,0) autocad_end_tangent_z number(31,15) autocad_hatch_gradient_angle number(31,15) autocad_hatch_complex_mode number(5,0) autocad_viewport_grid_adaptive logical autocad_extmax_x number(31,15) autocad_oblique number(31,15) autocad_mpolygon_pattern_space number(31,15) autocad_original_rotation number(31,15) autocad_arc_defpt.z number(31,15) autocad_viewport_center_point_x number(31,15) autocad_attributes_follow logical autocad_viewport_center_point_z number(31,15) autocad_fill_color number(6,0) autocad_start_width number(31,15) autocad_viewport_ucs_xdir_x number(31,15) fme_attrib_info{}.color.red number(31,15) autocad_yscale number(31,15) autocad_block_name char(50) fme_text_string char(50) autocad_bulge char(50) autocad_generation char(30) autocad_viewport_view_target_y number(31,15) autocad_mpolygon_gradient_color2 char(50) autocad_base_z number(31,15) autocad_original_text_size number(31,15) autocad_viewport_snap_base_point_x number(31,15) autocad_viewport_ucs_origin_x number(31,15) autocad_primary_axis number(31,15) autocad_mpolygon_pattern_double number(5,0) fme_attrib_info{}.field_value char(2049) autocad_text_string char(50) autocad_viewport_ucs_ydir_x number(31,15) autocad_defpt2.z number(31,15) autocad_shape_rotation number(31,15) autocad_viewport_ucs_elevation number(31,15) autocad_mpolygon_object_type number(6,0) autocad_mpolygon_gradient_type number(6,0) autocad_mpolygon_gradient_color1 char(50) autocad_hatch_gradient_shift number(31,15) autocad_original_position_z number(31,15) autocad_dim_arrowhead_pt_2.x number(31,15) autocad_hatch_gradient_color1 char(50) autocad_viewport_back_clip_distance number(31,15) autocad_number_columns number(5,0) autocad_viewport_ucs_follow_mode logical autocad_defpt3.y number(31,15) autocad_angdir logical autocad_fillmode logical fme_color char(50) autocad_viewport_ucs_icon_origin logical autocad_rotation number(31,15) autocad_dim_arrowhead_pt_1.y number(31,15) autocad_fit_tolerance number(31,15) autocad_hatch_pattern_scale number(31,15) autocad_original_text_string string autocad_raster_filename string autocad_viewport_view_direction_x number(31,15) autocad_text_size number(31,15) autocad_viewport_view_target_x number(31,15) autocad_num_fit_pts number(11,0) autocad_viewport_view_direction_z number(31,15) autocad_original_entity char(50) autocad_group_description char(50) autocad_entity char(50) autocad_extrusion_x number(31,15) autocad_hatch_gradient_one_color_mode number(5,0) autocad_end_tangent_x number(31,15) autocad_linetype_scale number(31,15) fme_text_size number(31,15) autocad_viewport_view_height number(31,15) autocad_mpolygon_pattern_scale number(31,15) autocad_arrow_head_on logical autocad_linetype char(50) autocad_viewport_snap_iso_pair number(6,0) autocad_original_entity_type char(50) autocad_viewport_locked logical autocad_hatch_pattern_angle number(31,15) autocad_viewport_front_clip_distance number(31,15) autocad_attach_point char(50) autocad_extended_data_list{} char(50) autocad_hatch_loop{}.autocad_hatch_bulge{} number(31,15) autocad_arc_defpt.y number(31,15) autocad_mpolygon_pattern_type number(6,0) autocad_defpt2.y number(31,15) autocad_hatch_style number(6,0) autocad_knot_param char(10) autocad_viewport_ucs_icon_visible logical autocad_shape_filename char(65) autocad_viewport_grid logical autocad_projectname char(32)"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP autocad_settings autocad_layer_desc%autocad_layer_appearance_group%autocad_layer_state_group Layer&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP autocad_layer_appearance_group autocad_linetype%autocad_color Appearance&quot; YES &quot;GUI OPTIONAL DISCLOSUREGROUP autocad_layer_state_group autocad_layer_on%autocad_layer_frozen%autocad_layer_hidden%autocad_layer_locked%autocad_layer_plottable State&quot; &quot;&quot; &quot;GUI INTEGER autocad_color Default Color&quot; 10 &quot;GUI TEXT autocad_linetype Default Linetype&quot; CONTINUOUS &quot;GUI CHOICE autocad_layer_frozen Yes%No Frozen&quot; No &quot;GUI CHOICE autocad_layer_hidden Yes%No Hidden&quot; No &quot;GUI CHOICE autocad_layer_locked Yes%No Locked&quot; No &quot;GUI CHOICE autocad_layer_on Yes%No On&quot; Yes &quot;GUI CHOICE autocad_layer_plottable Yes%No Plottable&quot; Yes &quot;GUI OPTIONAL TEXT autocad_layer_desc Description&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=". %#[]&quot;()!?*&apos;&amp;+\/"
@@ -239,7 +239,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="igds_level  igds_level_comment  igds_level_color 0 igds_level_style 0 igds_level_weight 0 igds_level_display yes igds_level_freeze no igds_level_lock no igds_level_override_color 0 igds_use_level_override_color No igds_level_override_style 0 igds_use_level_override_style No igds_level_override_weight 0 igds_use_level_override_weight No"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="igds_witness_line_sin_value double igds_xref_camera_pos_z double igds_dim_text_width double igds_text_width_multiplier double igds_mlinebreak{}.length double igds_textstyle_underline_style integer igds_custom_linestyle_rbit integer igds_weight_set_bylevel char(5) igds_linkage{}.ubit integer fme_rotation double igds_dimstyle_first_term integer igds_dim_type integer igds_custom_linestyle_scale double igds_mlineStyle{}.lineattrib.usestyle integer igds_graphic_group integer igds_arrow_height double igds_mlattrib_joint.usestyle integer igds_dimstyle_right_term integer fme_geometry char(50) igds_xref_file_disp_opts integer igds_mlattrib_endcap.weight integer igds_text_num_lines integer igds_custom_linestyle_rotation double igds_dim_refx{}.rxflags.upperText integer igds_text_elements{}.igds_insertion_z double igds_mlineStyle{}.lineattrib.cap_out_arc integer igds_xref_camera_focal_len double igds_linkage{}.xml_data_prefix char(64) igds_mlattrib_startcap.style integer igds_dimstyle_prefix_symbol integer igds_dim_primary_accuracy integer igds_tolerance_type integer igds_xref_ref_origin_y double igds_linkage{}.ufid integer igds_xref_scale double igds_dimstyle_nofit_vertical integer igds_mlinehdr_placement_offset integer igds_textstyle_underline_color integer igds_element_id integer igds_dimstyle_center_top integer igds_mlinehdr_style_id integer igds_xref_ref_origin_x double igds_use_comma_not_point integer igds_dim_textstyle_id integer igds_mlineStyle{}.offset double igds_linkage{}.key2 integer igds_center_mark_size double igds_text_elements{}.igds_insertion_x double igds_quat.z double igds_text_horizontal_flip logical igds_quat.w double igds_text_underlined integer igds_custom_linestyle_class integer igds_text_weight integer igds_dim_text_height double igds_textstyle_bg_fill_color integer igds_xref_model_name string igds_linkage{}.word{} integer igds_xref_ref_origin_z double igds_start_angle double igds_mlineStyle{}.lineattrib.color integer igds_is_graphic_cell_relative char(5) igds_mlineStyle{}.lineattrib.useweight integer igds_text_elements{}.igds_color integer igds_show_secondary integer igds_dimstyle_center_mark integer incosada_sequence_num integer igds_textstyle_slant integer igds_mlattrib_startcap.cap_on_arc integer igds_fill_rotation double igds_cell_x_scale double igds_dim_refx{}.rxflags.justification integer igds_mlattrib_endcap.level integer igds_dim_version integer igds_dimstyle_vertical_text integer igds_fill_spacing1 double link_type_0 char(40) igds_dim_refx{}.flags integer igds_show_trailing_zeroes integer igds_text_elements{}.igds_original_justification integer igds_xref_z_front double igds_fill_offset_x double igds_dim_secondary_accuracy integer igds_textstyle_overrides_style2 integer igds_linkage{}.type char(40) fme_sweep_angle double igds_linkage{}.entity_number integer igds_linkage{}.key integer igds_mlattrib_joint.style integer igds_cell_size double igds_text_elements{}.fme_color integer igds_leader_to_text_dist double igds_mlineStyle{}.lineattrib.level integer igds_mlinehdr_styleScale double igds_mlattrib_startcap.usestyle integer igds_mlinehdr_updv.y double igds_dimstyle_postfix_symbol integer igds_fill_angle2 double igds_element_locked char(5) igds_snappable char(4) igds_element_type integer igds_mlattrib_startcap.cap_out_arc integer igds_mlinebreak{}.segmask integer fme_secondary_axis double igds_dim_refx{}.pt.x double igds_tolerance_present integer igds_xref_desc string igds_fill_hole_style_id integer igds_xfmstore_url string mslink_1 integer igds_fill_pixel_size double igds_sweep_angle double igds_mlattrib_startcap.level integer igds_text_elements{}.z double igds_text_elements{}.igds_text_string string igds_mlineStyle{}.lineattrib.construction_class integer igds_fill_color integer igds_mlinehdr_offset_mode integer igds_dim_refx{}.rxflags.lowerText integer igds_style integer igds_linkage{}.display_attribute integer igds_textstyle_bg_style integer igds_custom_linestyle_mbit integer igds_dim_scale double igds_mlattrib_startcap.usecolor integer igds_element_new char(4) igds_cell_size_x double igds_xfmstore_storeid char(5) igds_mlinehdr_num_lines integer igds_dimstyle_left_witness integer igds_cell_size_y double fme_text_size double igds_mlattrib_startcap.useweight integer igds_xref_clip_pt{}.x double igds_quat.y double igds_num_ref_points integer igds_textstyle_bg_border.x double igds_dim_refx{}.pt.z double igds_mlattrib_startcap.customstyle integer igds_linkage{}.flags integer igds_mlineStyle{}.lineattrib.cap_on_arc integer igds_textstyle_underline_weight integer igds_fill_pattern_color integer igds_dim_refx{}.primary_text_string string fme_type char(50) igds_mlattrib_endcap.construction_class integer igds_linkage{}.feature_num integer igds_mlinebreak{}.from_joint integer igds_mlattrib_joint.cap_color_from_segment integer igds_element_byteoffset integer igds_fill_spacing2 double igds_textstyle_overline_style integer igds_mlattrib_endcap.cap_on_arc integer igds_witness_line_extension double igds_cell_name char(500) igds_mlattrib_startcap.cap_line integer igds_textstyle_id integer igds_mlinebreak{}.point_offset double igds_element_modified char(4) igds_tag_names{} char(50) igds_base_line_cos_value double igds_fill_scale double igds_color integer igds_linkage{}.trailing_flags integer igds_linkage{}.xfm_parent_uuid char(36) igds_custom_linestyle string igds_mlattrib_joint.level integer igds_custom_linestyle_ibit integer igds_mlinebreak{}.angle double igds_fill_offset_y double igds_mlattrib_joint.useweight integer igds_textstyle_underline char(5) igds_textstyle_bold char(5) igds_terminator integer incosada_feature_code integer igds_linkage{}.component_num integer igds_xref_base_nest_depth integer fme_feature_type char(50) igds_mlinehdr_num_nodes integer igds_class integer igds_xref_parent_file_path string fme_color char(50) igds_mlinehdr_updv.z double igds_mlattrib_endcap.usecolor integer igds_insertion_y double igds_linkage{}.class integer igds_custom_linestyle_center_shift char(5) igds_mlinehdr_arc_cap_by_profile_line integer igds_symbology integer igds_linkage{}.rule_base_id integer igds_textstyle_char_spacing integer igds_linkage{}.xfm_root_uuid char(36) igds_linkage{}.state_num integer fme_start_angle double igds_mlineStyle{}.lineattrib.weight integer igds_linkage{}.userId integer igds_font integer igds_xref_file_num integer igds_mlattrib_joint.customstyle integer igds_text_vertical_flip logical igds_textstyle_exflags integer igds_level_name char(80) igds_dim_refx{}.base_offset_y double igds_show_leading_zeroes integer igds_xfmstore_xml string igds_textstyle_bg_border.y double igds_text_elements{}.x double igds_text_elements{}.igds_text_width_multiplier double igds_custom_linestyle_end_width double igds_linkage{}.xfm_data_prefix char(8) igds_mlineStyle{}.lineattrib.style integer igds_textstyle_overrides_style1 integer igds_xref_master_origin_y double igds_text_font integer igds_text_elements{}.y double igds_dim_weight integer igds_options_count integer igds_linkage{}.string_id integer igds_zlow double igds_fill_pattern_type char(16) igds_dual_format integer mslink_0 integer igds_custom_linestyle_distance_shift double igds_xref_camera_pos_y double igds_fill_tolerance double igds_oval_around_text integer igds_rotation double igds_view_id integer igds_text_vert integer igds_linkage{}.ibit integer igds_element_priority integer igds_zhigh_uor integer igds_mlattrib_endcap.customstyle integer igds_dimstyle_center_left integer igds_mlineStyle{}.lineattrib.cap_color_from_segment integer igds_quat.x double igds_arrow_width double igds_linkage{}.mbit integer igds_mlattrib_endcap.use_class integer igds_dimstyle_left_term integer igds_linkage{}.xml_data string igds_mlattrib_startcap.weight integer igds_zhigh integer igds_dim_refx{}.base_offset double igds_xref_group_id integer igds_xref_clip_pt{}.y double igds_textstyle_bg_weight integer igds_text_elements{}.igds_text_size double igds_mlinenode_props string incosada_fid char(40) igds_linkage{}.component_count integer igds_linkage{}.rbit integer igds_xref_z_back double link_type_2 char(40) igds_xref_path string igds_dim_stack_offset double igds_mlineStyle{}.lineattrib.usecolor integer igds_dim_color integer igds_linkage{}.string string igds_textstyle_font integer igds_xref_rotation double igds_mlattrib_joint.usecolor integer igds_box_around_text integer igds_linkage{}.blobsize integer igds_color_set_bylevel char(5) igds_witness_line_offset double igds_linkage{}.readonly char(4) igds_text_min_leader double igds_textstyle_line_offset.x double igds_dim_refx{}.rxflags.relative integer igds_textstyle_color integer igds_base_to_text_dist double igds_text_color integer igds_insertion_z double igds_terminator_location integer igds_use_text_weight integer igds_custom_linestyle_flags integer igds_mlattrib_endcap.usestyle integer igds_text_elements{}.igds_insertion_y double igds_custom_linestyle_start_width double igds_mlattrib_endcap.color integer igds_mlinehdr_startcap_angle double igds_xfmstore_appid_word1 integer igds_primary_axis double igds_mlattrib_joint.cap_on_arc integer igds_textstyle_overline_color integer igds_dim_style integer igds_xfm_name string igds_mlattrib_joint.cap_out_arc integer igds_transparency double igds_mlattrib_joint.cap_line integer igds_textstyle_codepage integer igds_node_number integer igds_textstyle_overline_weight integer igds_arc_orientation char(40) fme_fill_color char(50) igds_text_elements{}.igds_rotation double igds_mlinehdr_offset_model_valid integer igds_xref_master_origin_x double igds_xref_file_name string igds_dim_refx{}.segment_text_offset integer igds_mlinehdr_updv.x double igds_xref_parent_attach_id integer igds_mlineStyle{}.lineattrib.use_class integer igds_xref_priority integer igds_mlattrib_startcap.color integer fme_dataset char(50) igds_mlattrib_joint.weight integer igds_linkage{}.firstword integer igds_dimstyle_right_witness integer igds_mlattrib_endcap.cap_color_from_segment integer igds_custom_linestyle_fraction_shift double igds_use_text_color integer mslink_2 integer igds_fill_island_style_id integer igds_text_elements{}.igds_justification integer igds_mlattrib_joint.construction_class integer fme_primary_axis double igds_mlinehdr_closed integer entity_num_2 integer igds_fill_offset_z double igds_base_line_sin_value double igds_dimstyle_center_right integer igds_mlattrib_endcap.cap_line integer igds_style_set_bylevel char(5) igds_mlattrib_joint.color integer igds_xref_file_build_opts integer igds_textstyle_overline char(5) igds_measure_angle integer igds_weight integer igds_cell_z_scale double igds_mlattrib_startcap.construction_class integer igds_fill_weight integer igds_text_string string fme_basename char(50) igds_textstyle_txflags integer igds_cell_y_scale double igds_insertion_x double igds_text_size double igds_linkage{}.blob string igds_level integer igds_mlineStyle{}.lineattrib.cap_line integer igds_textstyle_bg_color integer igds_secondary_axis double igds_mlinebreak{}.to_joint integer igds_xref_nest_depth integer igds_string_len double igds_textstyle_underline_spacing integer igds_textstyle_line_offset.y double igds_zlow_uor double igds_element_view_independent char(4) igds_dim_refx{}.rxflags.associative integer igds_justification integer igds_xfmstore_appid_word0 integer igds_mlineStyle{}.lineattrib.customstyle integer igds_fill_snappable integer igds_linkage{}.xfm_uuid char(36) igds_xref_name string igds_mlattrib_endcap.useweight integer igds_mlinehdr_version integer igds_dim_refx{}.pt.y double igds_mlattrib_startcap.use_class integer igds_chain_number integer igds_mlattrib_joint.use_class integer igds_mlinehdr_freeze_group integer igds_fill_angle1 double igds_textstyle_overline_spacing integer igds_linkage{}.suspectlinkage char(40) igds_xref_master_origin_z double igds_mlattrib_startcap.cap_color_from_segment integer igds_xref_version integer igds_align integer link_type_1 char(40) entity_num_1 integer igds_text_elements{}.igds_font integer igds_textstyle_tnode_word_wrap_len integer igds_linkage{}.ltype integer igds_dimstyle_center_bottom integer entity_num_0 integer igds_linkage{}.long{} integer igds_fill_style_id integer igds_level_comment char(80) igds_witness_line_cos_value double igds_xref_camera_pos_x double igds_mlattrib_endcap.cap_out_arc integer igds_mlinehdr_endcap_angle double fme_text_string char(50) igds_original_justification integer igds_mlinehdr_num_breaks integer igds_type char(20) igds_dim_freezegroup integer igds_mlattrib_endcap.style integer"
+#!   EXPOSABLE_ATTRS="igds_level integer igds_is_graphic_cell_relative char(5) igds_linkage{}.display_attribute integer igds_linkage{}.ibit integer igds_dim_refx{}.rxflags.associative integer igds_base_line_sin_value double igds_xref_master_origin_z double igds_text_elements{}.igds_original_justification integer igds_mlattrib_joint.cap_line integer igds_witness_line_extension double igds_mlattrib_joint.customstyle integer fme_dataset char(50) igds_primary_axis double igds_level_name char(80) igds_dimstyle_nofit_vertical integer igds_cell_name char(500) igds_text_size double igds_show_trailing_zeroes integer igds_textstyle_line_offset.x double igds_text_weight integer mslink_1 integer igds_mlinehdr_updv.x double igds_textstyle_bold char(5) igds_secondary_axis double igds_textstyle_id integer igds_mlinehdr_styleScale double igds_xref_master_origin_y double igds_mlattrib_joint.weight integer igds_text_elements{}.igds_font integer igds_linkage{}.trailing_flags integer igds_xref_file_num integer igds_mlattrib_endcap.usestyle integer igds_mlinebreak{}.length double igds_dim_refx{}.primary_text_string string igds_dimstyle_center_bottom integer igds_original_justification integer entity_num_1 integer igds_mlineStyle{}.lineattrib.useweight integer igds_mlineStyle{}.lineattrib.cap_out_arc integer igds_mlattrib_joint.usecolor integer igds_text_elements{}.igds_text_size double igds_dim_refx{}.pt.x double igds_start_angle double igds_element_locked char(5) igds_linkage{}.rbit integer igds_mlattrib_startcap.use_class integer incosada_fid char(40) igds_xref_path string incosada_feature_code integer igds_fill_tolerance double igds_mlattrib_startcap.cap_line integer igds_linkage{}.mbit integer fme_rotation double igds_cell_size_x double igds_box_around_text integer igds_mlattrib_joint.cap_out_arc integer igds_mlattrib_joint.usestyle integer igds_mlineStyle{}.lineattrib.level integer igds_zhigh integer igds_linkage{}.userId integer link_type_2 char(40) igds_fill_rotation double igds_fill_weight integer igds_custom_linestyle_class integer igds_dim_text_width double igds_mlattrib_endcap.weight integer igds_mlattrib_endcap.cap_color_from_segment integer igds_textstyle_overline_weight integer igds_mlinebreak{}.to_joint integer igds_weight integer igds_custom_linestyle_distance_shift double igds_textstyle_color integer igds_mlattrib_startcap.useweight integer igds_mlinehdr_closed integer igds_transparency double igds_xref_rotation double igds_mlinebreak{}.point_offset double igds_xref_version integer igds_xref_camera_pos_y double igds_mlattrib_endcap.cap_out_arc integer igds_xfm_name string igds_linkage{}.feature_num integer fme_type char(50) igds_symbology integer igds_textstyle_overrides_style1 integer igds_dim_text_height double igds_xfmstore_storeid char(5) igds_dimstyle_center_mark integer igds_mlinehdr_style_id integer igds_linkage{}.flags integer igds_quat.y double igds_xref_camera_pos_z double igds_mlineStyle{}.lineattrib.weight integer igds_dim_refx{}.base_offset_y double igds_mlattrib_startcap.usecolor integer igds_linkage{}.class integer igds_linkage{}.word{} integer igds_text_elements{}.igds_color integer igds_dimstyle_center_top integer igds_dim_color integer igds_use_comma_not_point integer igds_mlinenode_props string igds_mlattrib_joint.cap_color_from_segment integer igds_xref_ref_origin_x double igds_mlattrib_startcap.level integer fme_primary_axis double fme_secondary_axis double igds_text_elements{}.fme_color integer igds_xfmstore_url string igds_mlinehdr_num_lines integer igds_textstyle_overline_style integer igds_mlattrib_endcap.cap_line integer igds_linkage{}.firstword integer igds_type char(20) igds_xref_clip_pt{}.x double mslink_2 integer igds_xref_ref_origin_y double igds_mlineStyle{}.offset double igds_base_to_text_dist double igds_linkage{}.xfm_data_prefix char(8) igds_mlineStyle{}.lineattrib.customstyle integer entity_num_2 integer igds_mlattrib_endcap.color integer igds_linkage{}.suspectlinkage char(40) igds_xref_name string igds_fill_scale double igds_tolerance_present integer igds_linkage{}.string string igds_custom_linestyle_start_width double incosada_sequence_num integer igds_dimstyle_left_witness integer igds_node_number integer igds_fill_color integer igds_textstyle_underline_style integer igds_mlinehdr_freeze_group integer igds_text_horizontal_flip logical igds_style integer mslink_0 integer igds_mlattrib_startcap.construction_class integer igds_textstyle_bg_border.x double igds_xfmstore_appid_word0 integer igds_mlinebreak{}.angle double igds_element_new char(4) igds_zhigh_uor integer igds_align integer igds_style_set_bylevel char(5) igds_text_string string igds_arrow_width double igds_justification integer igds_dim_refx{}.rxflags.justification integer igds_custom_linestyle_scale double igds_mlattrib_endcap.use_class integer igds_cell_y_scale double igds_mlattrib_endcap.customstyle integer igds_textstyle_underline char(5) igds_text_elements{}.igds_insertion_x double igds_dimstyle_vertical_text integer igds_textstyle_overline_color integer fme_start_angle double fme_geometry char(50) igds_quat.w double igds_fill_angle2 double igds_dim_scale double igds_xref_z_back double igds_terminator_location integer igds_fill_style_id integer igds_textstyle_exflags integer igds_cell_x_scale double igds_custom_linestyle_flags integer igds_terminator integer igds_mlattrib_joint.construction_class integer igds_element_type integer igds_dim_textstyle_id integer igds_arc_orientation char(40) igds_xref_parent_attach_id integer igds_text_width_multiplier double igds_xref_file_build_opts integer igds_linkage{}.state_num integer igds_xref_group_id integer igds_linkage{}.rule_base_id integer link_type_0 char(40) igds_textstyle_underline_color integer igds_fill_offset_x double igds_dim_refx{}.segment_text_offset integer igds_linkage{}.xml_data_prefix char(64) igds_textstyle_underline_spacing integer igds_quat.z double igds_textstyle_underline_weight integer igds_linkage{}.component_num integer igds_custom_linestyle_ibit integer igds_dim_primary_accuracy integer igds_dim_refx{}.pt.z double igds_xref_master_origin_x double igds_text_vert integer igds_text_elements{}.z double igds_xref_clip_pt{}.y double igds_dim_refx{}.rxflags.lowerText integer igds_fill_island_style_id integer igds_color_set_bylevel char(5) igds_xref_file_name string igds_use_text_weight integer igds_text_elements{}.igds_text_string string igds_mlattrib_endcap.cap_on_arc integer igds_center_mark_size double igds_textstyle_bg_border.y double igds_linkage{}.blob string igds_snappable char(4) igds_mlattrib_joint.level integer fme_feature_type char(50) igds_quat.x double igds_text_font integer igds_text_underlined integer igds_mlattrib_startcap.cap_out_arc integer igds_font integer igds_text_color integer igds_mlattrib_endcap.style integer igds_view_id integer igds_custom_linestyle_center_shift char(5) igds_text_elements{}.igds_rotation double igds_mlinehdr_arc_cap_by_profile_line integer igds_mlinehdr_updv.y double igds_fill_pixel_size double igds_mlinehdr_num_nodes integer igds_dimstyle_left_term integer igds_mlineStyle{}.lineattrib.cap_on_arc integer igds_mlattrib_startcap.weight integer igds_xref_z_front double igds_text_vertical_flip logical igds_element_id integer igds_cell_size_y double igds_show_secondary integer igds_insertion_x double igds_dimstyle_postfix_symbol integer igds_text_elements{}.igds_insertion_y double igds_mlattrib_startcap.style integer igds_textstyle_overrides_style2 integer igds_custom_linestyle_mbit integer fme_fill_color char(50) igds_mlattrib_joint.cap_on_arc integer igds_weight_set_bylevel char(5) igds_text_elements{}.igds_justification integer igds_linkage{}.ufid integer igds_zlow_uor double igds_mlattrib_endcap.construction_class integer igds_dimstyle_first_term integer igds_linkage{}.xfm_root_uuid char(36) igds_fill_spacing2 double igds_text_elements{}.igds_insertion_z double igds_linkage{}.key2 integer igds_fill_offset_z double igds_fill_pattern_color integer igds_textstyle_overline_spacing integer igds_linkage{}.ubit integer igds_mlattrib_startcap.color integer igds_linkage{}.string_id integer igds_graphic_group integer igds_insertion_y double igds_fill_angle1 double igds_textstyle_char_spacing integer igds_dim_refx{}.flags integer igds_options_count integer igds_text_elements{}.y double igds_mlattrib_joint.use_class integer igds_xref_parent_file_path string fme_sweep_angle double igds_text_elements{}.x double igds_xref_model_name string igds_color integer igds_mlinehdr_updv.z double igds_num_ref_points integer igds_mlineStyle{}.lineattrib.construction_class integer igds_dim_freezegroup integer igds_textstyle_overline char(5) igds_mlattrib_startcap.cap_on_arc integer igds_use_text_color integer igds_insertion_z double igds_text_min_leader double igds_custom_linestyle_rbit integer igds_textstyle_line_offset.y double igds_fill_spacing1 double igds_string_len double igds_textstyle_tnode_word_wrap_len integer igds_fill_snappable integer igds_dim_secondary_accuracy integer igds_textstyle_bg_style integer igds_linkage{}.entity_number integer igds_dimstyle_prefix_symbol integer igds_mlinebreak{}.from_joint integer igds_witness_line_cos_value double igds_linkage{}.readonly char(4) igds_xfmstore_xml string igds_mlineStyle{}.lineattrib.color integer igds_linkage{}.component_count integer igds_custom_linestyle_rotation double igds_linkage{}.blobsize integer entity_num_0 integer igds_rotation double igds_mlattrib_startcap.cap_color_from_segment integer igds_mlineStyle{}.lineattrib.style integer fme_basename char(50) igds_cell_z_scale double igds_measure_angle integer igds_fill_hole_style_id integer igds_element_view_independent char(4) igds_linkage{}.key integer igds_linkage{}.xfm_parent_uuid char(36) igds_linkage{}.ltype integer igds_dim_refx{}.base_offset double igds_textstyle_txflags integer igds_mlinehdr_offset_mode integer igds_cell_size double igds_dim_refx{}.rxflags.relative integer igds_dimstyle_right_term integer igds_level_comment char(80) igds_xref_camera_focal_len double link_type_1 char(40) igds_mlineStyle{}.lineattrib.usestyle integer igds_mlineStyle{}.lineattrib.use_class integer igds_mlinehdr_startcap_angle double fme_text_string char(50) igds_dim_style integer igds_textstyle_codepage integer igds_zlow double igds_mlinehdr_version integer igds_mlinehdr_offset_model_valid integer igds_mlattrib_endcap.useweight integer igds_linkage{}.type char(40) igds_mlattrib_endcap.usecolor integer igds_text_elements{}.igds_text_width_multiplier double igds_text_num_lines integer igds_mlattrib_endcap.level integer igds_mlineStyle{}.lineattrib.cap_line integer igds_custom_linestyle string igds_oval_around_text integer igds_mlinebreak{}.segmask integer igds_xref_nest_depth integer igds_textstyle_slant integer igds_xref_ref_origin_z double igds_textstyle_bg_fill_color integer igds_sweep_angle double igds_dimstyle_center_right integer igds_textstyle_bg_color integer igds_custom_linestyle_end_width double igds_mlinehdr_endcap_angle double igds_xref_scale double igds_xref_base_nest_depth integer igds_witness_line_sin_value double igds_dim_refx{}.pt.y double igds_mlattrib_startcap.customstyle integer igds_mlineStyle{}.lineattrib.cap_color_from_segment integer igds_dual_format integer igds_chain_number integer igds_witness_line_offset double igds_linkage{}.xfm_uuid char(36) igds_mlineStyle{}.lineattrib.usecolor integer fme_color char(50) igds_leader_to_text_dist double igds_mlattrib_startcap.usestyle integer igds_dimstyle_right_witness integer igds_dim_type integer igds_class integer igds_show_leading_zeroes integer igds_xref_camera_pos_x double igds_xref_priority integer igds_base_line_cos_value double igds_fill_pattern_type char(16) igds_dim_version integer igds_xref_desc string igds_element_modified char(4) igds_dimstyle_center_left integer fme_text_size double igds_tag_names{} char(50) igds_linkage{}.long{} integer igds_xfmstore_appid_word1 integer igds_dim_refx{}.rxflags.upperText integer igds_xref_file_disp_opts integer igds_mlinehdr_num_breaks integer igds_tolerance_type integer igds_fill_offset_y double igds_element_byteoffset integer igds_arrow_height double igds_mlinehdr_placement_offset integer igds_mlattrib_joint.style integer igds_textstyle_font integer igds_linkage{}.xml_data string igds_dim_stack_offset double igds_textstyle_bg_weight integer igds_mlattrib_joint.color integer igds_custom_linestyle_fraction_shift double igds_element_priority integer igds_mlattrib_joint.useweight integer igds_dim_weight integer"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP igds_level_properties FME_DISCLOSURE_OPEN%igds_level%igds_level_comment%igds_level_color%igds_level_style%igds_level_weight%igds_level_display%igds_level_freeze%igds_level_lock%igds_level_overrides Level&quot; &quot;&quot; &quot;GUI OPTIONAL INTEGER igds_level Number&quot; &quot;&quot; &quot;GUI OPTIONAL TEXT igds_level_comment Comment&quot; &quot;&quot; &quot;GUI OPTIONAL INTEGER igds_level_color Color&quot; &quot;&quot; &quot;GUI OPTIONAL INTEGER igds_level_style Style&quot; &quot;&quot; &quot;GUI OPTIONAL INTEGER igds_level_weight Weight&quot; &quot;&quot; &quot;GUI CHOICE igds_level_display Yes%No Display&quot; Yes &quot;GUI CHOICE igds_level_freeze Yes%No Freeze&quot; No &quot;GUI CHOICE igds_level_lock Yes%No Lock&quot; No &quot;GUI OPTIONAL DISCLOSUREGROUP igds_level_overrides FME_DISCLOSURE_CLOSED%igds_level_override_color%igds_use_level_override_color%igds_level_override_style%igds_use_level_override_style%igds_level_override_weight%igds_use_level_override_weight Level Overrides&quot; &quot;&quot; &quot;GUI INT_OR_CHOICE igds_level_override_color From_Seed_File Color&quot; From_Seed_File &quot;GUI CHOICE igds_use_level_override_color From_Seed_File%Yes%No Use Color&quot; From_Seed_File &quot;GUI INT_OR_CHOICE igds_level_override_style From_Seed_File Style&quot; From_Seed_File &quot;GUI CHOICE igds_use_level_override_style From_Seed_File%Yes%No Use Style&quot; From_Seed_File &quot;GUI INT_OR_CHOICE igds_level_override_weight From_Seed_File Weight&quot; From_Seed_File &quot;GUI CHOICE igds_use_level_override_weight From_Seed_File%Yes%No Use Weight&quot; From_Seed_File "
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -290,7 +290,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="autocad_color 10 autocad_linetype CONTINUOUS autocad_layer_frozen no autocad_layer_hidden no autocad_layer_locked no autocad_layer_on yes autocad_layer_plottable yes autocad_layer_desc &quot;&quot;"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="autocad_defpt4.x number(31,15) autocad_flag number(6,0) autocad_alignment_x number(31,15) fme_attrib_info{}.color.red number(31,15) fme_rotation number(31,15) autocad_mpolygon_pattern_color char(50) autocad_true_type_font char(50) fme_attrib_info{}.oblique number(31,15) autocad_viewport_width number(31,15) fme_attrib_info{}.location_z number(31,15) fme_geometry char(50) autocad_hatch_pixel_size number(31,15) autocad_num_lines number(5,0) autocad_lineweight char(10) autocad_start_angle number(31,15) autocad_visible_attributes{} char(50) autocad_viewport_ucs_xdir_x number(31,15) autocad_viewport_back_clip_distance number(31,15) autocad_viewport_ucs_origin_z number(31,15) autocad_text_midpoint.y number(31,15) fme_attrib_info{}.height number(31,15) autocad_group_name char(50) autocad_start_width number(31,15) autocad_mpolygon_origin_point_y number(31,15) autocad_shape_rotation number(31,15) fme_attrib_info{}.width_factor number(31,15) autocad_mpolygon_gradient_type number(6,0) autocad_defpt4.z number(31,15) autocad_viewport_front_clip logical autocad_closed_spline number(6,0) autocad_viewport_anno_scale_paper_units number(31,15) autocad_box_height number(31,15) fme_attrib_info{}.color.source char(10) autocad_big_fontname char(65) fme_attrib_info{}.generation char(25) autocad_path_type char(10) autocad_viewport_handle char(50) autocad_raster_display_opt_transparent logical autocad_dimension_type char(50) autocad_dim_clone_inspection_point.y number(31,15) autocad_mpolygon_pattern_type number(6,0) autocad_base_y number(31,15) autocad_hatch_gradient_type number(6,0) autocad_text_x_pos number(31,15) autocad_edge_1 char(10) autocad_fit_x string autocad_attribute_display char(50) autocad_arc_defpt.z number(31,15) autocad_viewport_ucs_icon_origin logical autocad_hatch_gradient_color1 char(50) autocad_extmin_y number(31,15) autocad_viewport_view_target_x number(31,15) autocad_hatch_gradient_angle number(31,15) autocad_linetype_generation number(1,0) autocad_sweep_angle number(31,15) autocad_viewport_brightness number(31,15) autocad_control_weights string autocad_base_z number(31,15) autocad_normal_z number(31,15) autocad_defpt3.y number(31,15) autocad_extmin_x number(31,15) autocad_viewport_grid_major number(6,0) autocad_shape_filename char(65) fme_sweep_angle number(31,15) autocad_viewport_grid_increment_y number(31,15) autocad_group_num_entities char(50) autocad_insunits number(6,0) autocad_hatch_pattern_type number(6,0) fme_attrib_info{}.field_value char(2049) autocad_txt_offset_z number(31,15) autocad_hatch_shade_tint_value number(31,15) autocad_hatch_gradient_shift number(31,15) autocad_mpolygon_pixel_size number(31,15) autocad_viewport_plot_style_sheet string autocad_dimension_attach_point number(5,0) fme_attrib_info{}.rotation number(31,15) autocad_primary_axis number(31,15) autocad_extrusion_z number(31,15) autocad_line_defpoint.x number(31,15) autocad_hatch_loop{}.autocad_hatch_bulge{} number(31,15) autocad_hatch_origin_point_x number(31,15) autocad_defpt4.y number(31,15) autocad_fillmode logical autocad_knot_tolerance number(31,15) autocad_anno_scale{}.drawing_units number(31,15) autocad_viewport_view_center_x number(31,15) autocad_viewport_shade_plot char(32) fme_secondary_axis number(31,15) autocad_end_tangent_z number(31,15) autocad_anno_scale{}.name string autocad_justification char(50) autocad_block_name char(50) autocad_dim_arrowhead_pt_2.y number(31,15) autocad_hatch_object_type number(6,0) fme_attrib_info{}.style char(512) autocad_scale number(31,15) autocad_mpolygon_pattern_space number(31,15) autocad_hatch_origin_point_y number(31,15) autocad_defpt2.y number(31,15) autocad_original_position_y number(31,15) autocad_fit_tolerance number(31,15) autocad_box_width number(31,15) autocad_group_description char(50) fme_attrib_info{}.attribute_flag char(2) autocad_text_string char(50) autocad_viewport_anno_scale_drawing_units number(31,15) autocad_true_color char(50) autocad_viewport_perspective logical autocad_raster_clip_points{}.y number(31,15) autocad_xref_type char(10) autocad_oblique number(31,15) autocad_original_rotation number(31,15) autocad_viewport_ucs_ydir_x number(31,15) fme_text_size number(31,15) autocad_mpolygon_gradient_one_color_mode number(5,0) autocad_txt_offset_x number(31,15) autocad_edge_3 char(10) autocad_mpolygon_pattern_double number(5,0) autocad_text_midpoint.z number(31,15) autocad_viewport_grid_increment_x number(31,15) autocad_fit_y string autocad_textpict char(50) autocad_hatch_gradient_name char(32) autocad_viewport_grid_follow logical autocad_width_factor number(31,15) autocad_viewport_locked logical autocad_anno_scale{}.paper_units number(31,15) fme_attrib_info{}.field_size number(5,0) fme_type char(50) autocad_yscale number(31,15) autocad_original_entity_type char(50) autocad_original_text_size number(31,15) autocad_linetype_scale number(31,15) fme_attrib_info{}.location_y number(31,15) autocad_mpolygon_object_type number(6,0) autocad_mpolygon_gradient_shift number(31,15) autocad_version char(32) autocad_shape_vertical char(6) autocad_viewport_non_rect_clip logical autocad_text_size number(31,15) autocad_viewport_center_point_z number(31,15) autocad_viewport_snap_increment_x number(31,15) autocad_arrow_head_on logical autocad_txt_offset_y number(31,15) autocad_viewport_grid_adaptive logical autocad_viewport_grid_subdivision_restricted logical autocad_raster_filename string autocad_ucs_xangle number(31,15) autocad_dim_arrowhead_pt_1.x number(31,15) autocad_xref_path string autocad_end_tangent_x number(31,15) autocad_text_midpoint.x number(31,15) autocad_thickness number(31,15) autocad_num_knots number(11,0) autocad_viewport_snap_increment_y number(31,15) autocad_mtext_ref_rect_width number(31,15) autocad_shape_name char(32) autocad_end_tangent_y number(31,15) fme_attrib_info{}.field_name char(513) autocad_num_verts number(5,0) fme_attrib_info{}.layer char(512) autocad_hatch_pattern_angle number(31,15) fme_feature_type char(50) autocad_dim_flag number(5,0) autocad_block_insert_y number(31,15) autocad_viewport_ucs_xdir_z number(31,15) autocad_dim_arrowhead_pt_2.x number(31,15) fme_color char(50) autocad_viewport_standard_scale char(32) autocad_fit_z string autocad_original_position_x number(31,15) autocad_dim_clone_inspection_point.x number(31,15) autocad_mtext_string char(50) autocad_extended_data_list{} char(50) autocad_projectname char(32) autocad_viewport_view_target_z number(31,15) autocad_viewport_ambient_light_color number(6,0) autocad_anno_force_visible logical autocad_defpt2.z number(31,15) autocad_attributes_follow logical autocad_viewport_view_target_y number(31,15) fme_start_angle number(31,15) autocad_attach_point char(50) autocad_defpt3.z number(31,15) autocad_viewport_ucs_origin_x number(31,15) autocad_elevation number(31,15) autocad_hatch_gradient_color2 char(50) autocad_color number(6,0) autocad_mtext_text_height number(31,15) autocad_linespace_factor number(31,15) autocad_mpolygon_gradient_angle number(31,15) autocad_entity_handle char(50) autocad_normal_x number(31,15) autocad_extmax_y number(31,15) autocad_proxygraphics number(6,0) autocad_zscale number(31,15) autocad_mline_type char(50) autocad_raster_contrast number(4,0) autocad_mline_style char(50) autocad_attmode number(6,0) autocad_fill_color number(6,0) autocad_raster_clip_inverted logical autocad_alignment_y number(31,15) fme_attrib_info{}.justification char(25) autocad_hatch_pattern_name char(32) autocad_normal_y number(31,15) autocad_viewport_front_clip_eye logical autocad_block_insert_z number(31,15) autocad_block_insert_x number(31,15) autocad_knot_param char(10) autocad_viewport_non_rect_clip_handle char(50) autocad_longitude number(31,15) autocad_polyflag char(50) autocad_start_tangent_y number(31,15) autocad_line_defpoint.z number(31,15) autocad_defpt2.x number(31,15) autocad_group_anonymous char(50) autocad_raster_fade number(4,0) autocad_alignment_z number(31,15) autocad_linetype char(50) autocad_hatch_loop{}.autocad_hatch_bulges_present number(5,0) autocad_mpolygon_gradient_name char(32) autocad_edge_2 char(10) fme_attrib_info{}.color.green number(31,15) autocad_secondary_axis number(31,15) autocad_invisible_attributes{} char(50) autocad_viewport_height number(31,15) autocad_mpolygon_style number(6,0) autocad_original_layer char(50) autocad_viewport_snap logical autocad_row_distance number(31,15) autocad_shape_height number(31,15) autocad_viewport_view_height number(31,15) autocad_viewport_default_lighting_type number(6,0) autocad_start_tangent_x number(31,15) autocad_auprec number(6,0) autocad_control_x string autocad_store_bulges_mode logical autocad_shape_index number(31,15) autocad_viewport_default_lighting logical autocad_num_cntl_pts number(11,0) autocad_group_selectable char(50) autocad_layer char(50) autocad_generation char(30) autocad_viewport_twist_angle number(31,15) autocad_viewport_ucs_saved_with_viewport logical autocad_line_defpoint.y number(31,15) autocad_viewport_ucs_ydir_z number(31,15) autocad_hatch_complex_mode number(5,0) autocad_viewport_contrast number(31,15) autocad_angdir logical autocad_viewport_view_direction_z number(31,15) autocad_viewport_lens_length number(31,15) autocad_viewport_grid_bound_limits logical autocad_viewport_ucs_follow_mode logical autocad_mpolygon_gradient_color2 char(50) autocad_raster_clip_points{}.x number(31,15) autocad_viewport_custom_scale number(31,15) autocad_dim_arrowhead_pt_1.y number(31,15) autocad_latitude number(31,15) fme_fill_color char(50) autocad_extmax_z number(31,15) autocad_angbase number(31,15) autocad_raster_original_transparency char(50) autocad_mpolygon_shade_tint_value number(31,15) autocad_viewport_back_clip logical autocad_start_tangent_z number(31,15) autocad_base_x number(31,15) autocad_number_rows number(5,0) autocad_raster_transparency number(4,0) autocad_xref_name char(50) autocad_entity char(50) autocad_arc_defpt.y number(31,15) autocad_hatch_pattern_double number(5,0) autocad_viewport_snap_base_point_x number(31,15) fme_dataset char(50) autocad_mpolygon_pattern_name char(32) autocad_size_y number(31,15) autocad_viewport_snap_iso_pair number(6,0) autocad_extmin_z number(31,15) autocad_text_z_pos number(31,15) autocad_viewport_ucs_ydir_y number(31,15) autocad_anno_type char(30) fme_primary_axis number(31,15) autocad_viewport_view_direction_y number(31,15) autocad_viewport_clipped_handle char(50) autocad_group_accessible char(50) autocad_bulge char(50) fme_attrib_info{}.isVisible char(6) autocad_raster_clip_points{}.z number(31,15) autocad_viewport_view_direction_x number(31,15) autocad_xrecord_data_list{} char(50) autocad_mpolygon_pattern_angle number(31,15) autocad_aunits number(6,0) autocad_luprec number(6,0) autocad_hatch_pattern_scale number(31,15) autocad_control_y string autocad_viewport_ucs_elevation number(31,15) autocad_defpt3.x number(31,15) autocad_extmax_x number(31,15) fme_basename char(50) autocad_lunits number(6,0) autocad_mpolygon_origin_point_x number(31,15) autocad_viewport_resolved_target_z number(31,15) autocad_viewport_view_center_y number(31,15) autocad_control_z string autocad_size_x number(31,15) autocad_dimension_style_name char(50) fme_attrib_info{}.align_y number(31,15) autocad_viewport_on logical fme_attrib_info{} char(50) autocad_shape_width number(31,15) autocad_viewport_ucs_origin_y number(31,15) autocad_text_y_pos number(31,15) autocad_viewport_ucs_xdir_y number(31,15) autocad_raster_display_opt_show_unaligned logical autocad_end_width number(31,15) autocad_xscale number(31,15) autocad_rotation number(31,15) autocad_size_z number(31,15) fme_attrib_info{}.location_x number(31,15) autocad_text_rotation number(31,15) autocad_anno_handle char(50) autocad_viewport_center_point_y number(31,15) autocad_rational_spline number(6,0) autocad_original_position_z number(31,15) fme_attrib_info{}.color.blue number(31,15) autocad_num_fit_pts number(11,0) autocad_periodic_spline number(6,0) autocad_raster_display_opt_show logical autocad_dim_clone_inspection_point.z number(31,15) autocad_degree number(31,15) autocad_viewport_ucs_icon_visible logical autocad_raster_brightness number(4,0) autocad_width number(31,15) autocad_mpolygon_pattern_scale number(31,15) autocad_mpolygon_gradient_color1 char(50) autocad_original_text_string string autocad_hatch_pattern_space number(31,15) autocad_hatch_style number(6,0) autocad_viewport_hidden_lines_removed logical autocad_original_entity char(50) autocad_viewport_resolved_target_x number(31,15) autocad_number_columns number(5,0) autocad_arc_defpt.x number(31,15) autocad_viewport_circle_sides number(6,0) autocad_viewport_center_point_x number(31,15) autocad_knots string autocad_extrusion_x number(31,15) fme_attrib_info{}.align_x number(31,15) autocad_edge_4 char(10) autocad_viewport_front_clip_distance number(31,15) autocad_hatch_gradient_one_color_mode number(5,0) autocad_viewport_resolved_target_y number(31,15) autocad_viewport_snap_angle number(31,15) autocad_viewport_snap_isometric logical autocad_extrusion_y number(31,15) autocad_viewport_grid logical fme_text_string char(50) autocad_viewport_snap_base_point_y number(31,15) autocad_viewport_anno_scale string autocad_raster_display_opt_clip logical"
+#!   EXPOSABLE_ATTRS="autocad_size_z number(31,15) autocad_extmax_z number(31,15) autocad_txt_offset_z number(31,15) autocad_original_layer char(50) autocad_hatch_gradient_type number(6,0) autocad_size_x number(31,15) autocad_control_z string autocad_raster_clip_inverted logical autocad_line_defpoint.z number(31,15) autocad_hatch_loop{}.autocad_hatch_bulges_present number(5,0) fme_dataset char(50) autocad_auprec number(6,0) autocad_original_position_y number(31,15) autocad_txt_offset_x number(31,15) autocad_mpolygon_shade_tint_value number(31,15) autocad_longitude number(31,15) autocad_viewport_snap_base_point_y number(31,15) autocad_anno_scale{}.drawing_units number(31,15) autocad_fit_z string fme_attrib_info{}.layer char(512) autocad_viewport_handle char(50) autocad_block_insert_y number(31,15) autocad_dim_clone_inspection_point.x number(31,15) autocad_attribute_display char(50) autocad_alignment_z number(31,15) autocad_viewport_snap_angle number(31,15) autocad_mpolygon_style number(6,0) autocad_width_factor number(31,15) autocad_txt_offset_y number(31,15) autocad_hatch_pattern_space number(31,15) autocad_viewport_standard_scale char(32) autocad_viewport_height number(31,15) autocad_number_rows number(5,0) autocad_mpolygon_pattern_color char(50) autocad_line_defpoint.x number(31,15) autocad_group_accessible char(50) autocad_start_tangent_y number(31,15) autocad_anno_handle char(50) autocad_dimension_attach_point number(5,0) fme_attrib_info{}.style char(512) autocad_defpt3.z number(31,15) autocad_raster_original_transparency char(50) autocad_anno_type char(30) fme_attrib_info{}.field_size number(5,0) autocad_group_num_entities char(50) autocad_viewport_width number(31,15) autocad_text_y_pos number(31,15) autocad_control_x string fme_attrib_info{}.rotation number(31,15) fme_attrib_info{}.field_name char(513) autocad_polyflag char(50) autocad_mpolygon_origin_point_y number(31,15) autocad_mpolygon_origin_point_x number(31,15) fme_rotation number(31,15) autocad_linespace_factor number(31,15) autocad_viewport_grid_subdivision_restricted logical fme_attrib_info{}.location_z number(31,15) autocad_periodic_spline number(6,0) autocad_raster_display_opt_clip logical autocad_linetype_generation number(1,0) autocad_viewport_resolved_target_x number(31,15) autocad_luprec number(6,0) autocad_fit_x string autocad_extmin_y number(31,15) autocad_viewport_clipped_handle char(50) autocad_defpt3.x number(31,15) autocad_num_lines number(5,0) fme_attrib_info{}.attribute_flag char(2) autocad_extmin_z number(31,15) autocad_viewport_view_target_z number(31,15) fme_attrib_info{}.align_y number(31,15) autocad_defpt4.y number(31,15) autocad_block_insert_x number(31,15) autocad_viewport_view_direction_y number(31,15) autocad_end_width number(31,15) autocad_raster_display_opt_transparent logical autocad_dimension_style_name char(50) autocad_raster_transparency number(4,0) autocad_row_distance number(31,15) autocad_viewport_grid_increment_y number(31,15) autocad_store_bulges_mode logical autocad_viewport_anno_scale string fme_type char(50) autocad_insunits number(6,0) fme_attrib_info{}.generation char(25) autocad_xref_type char(10) autocad_flag number(6,0) autocad_text_midpoint.y number(31,15) fme_attrib_info{}.width_factor number(31,15) autocad_angbase number(31,15) autocad_viewport_circle_sides number(6,0) fme_attrib_info{}.color.blue number(31,15) autocad_extmin_x number(31,15) autocad_knot_tolerance number(31,15) fme_attrib_info{} char(50) autocad_layer char(50) autocad_defpt4.z number(31,15) autocad_fit_y string autocad_true_color char(50) autocad_box_width number(31,15) autocad_viewport_ucs_xdir_z number(31,15) autocad_secondary_axis number(31,15) autocad_arc_defpt.x number(31,15) autocad_viewport_shade_plot char(32) autocad_viewport_brightness number(31,15) autocad_start_angle number(31,15) autocad_mpolygon_pattern_name char(32) autocad_hatch_pixel_size number(31,15) autocad_viewport_back_clip logical autocad_end_tangent_y number(31,15) fme_primary_axis number(31,15) fme_secondary_axis number(31,15) fme_attrib_info{}.isVisible char(6) autocad_viewport_grid_major number(6,0) autocad_mpolygon_gradient_angle number(31,15) autocad_hatch_object_type number(6,0) autocad_num_cntl_pts number(11,0) autocad_viewport_ucs_ydir_y number(31,15) autocad_viewport_ucs_ydir_z number(31,15) autocad_proxygraphics number(6,0) autocad_edge_3 char(10) autocad_viewport_front_clip logical autocad_mtext_text_height number(31,15) autocad_raster_contrast number(4,0) autocad_ucs_xangle number(31,15) autocad_elevation number(31,15) autocad_justification char(50) autocad_viewport_non_rect_clip logical autocad_raster_clip_points{}.z number(31,15) autocad_viewport_snap_isometric logical autocad_viewport_anno_scale_paper_units number(31,15) autocad_extrusion_z number(31,15) autocad_anno_force_visible logical autocad_raster_brightness number(4,0) autocad_viewport_ucs_xdir_y number(31,15) autocad_shape_name char(32) autocad_viewport_front_clip_eye logical autocad_visible_attributes{} char(50) autocad_normal_y number(31,15) autocad_dim_arrowhead_pt_1.x number(31,15) autocad_viewport_ucs_origin_z number(31,15) autocad_raster_clip_points{}.x number(31,15) autocad_viewport_lens_length number(31,15) autocad_hatch_gradient_name char(32) autocad_mtext_string char(50) autocad_hatch_pattern_type number(6,0) autocad_xscale number(31,15) autocad_textpict char(50) autocad_dim_clone_inspection_point.z number(31,15) autocad_edge_4 char(10) fme_attrib_info{}.justification char(25) fme_geometry char(50) fme_start_angle number(31,15) autocad_attmode number(6,0) autocad_defpt4.x number(31,15) autocad_viewport_grid_bound_limits logical autocad_lunits number(6,0) autocad_normal_x number(31,15) autocad_control_y string autocad_anno_scale{}.name string autocad_raster_display_opt_show logical autocad_anno_scale{}.paper_units number(31,15) autocad_start_tangent_x number(31,15) autocad_viewport_custom_scale number(31,15) autocad_viewport_plot_style_sheet string autocad_rational_spline number(6,0) autocad_viewport_view_center_x number(31,15) autocad_text_x_pos number(31,15) autocad_closed_spline number(6,0) autocad_shape_height number(31,15) fme_attrib_info{}.location_x number(31,15) autocad_viewport_ucs_origin_y number(31,15) autocad_mpolygon_pattern_angle number(31,15) autocad_version char(32) autocad_hatch_origin_point_x number(31,15) autocad_original_position_x number(31,15) autocad_hatch_shade_tint_value number(31,15) autocad_viewport_twist_angle number(31,15) autocad_raster_clip_points{}.y number(31,15) autocad_scale number(31,15) autocad_degree number(31,15) autocad_text_z_pos number(31,15) autocad_xref_name char(50) autocad_dimension_type char(50) autocad_viewport_center_point_y number(31,15) autocad_hatch_pattern_double number(5,0) autocad_xref_path string autocad_viewport_grid_follow logical autocad_knots string fme_feature_type char(50) autocad_shape_index number(31,15) autocad_latitude number(31,15) autocad_shape_width number(31,15) fme_attrib_info{}.oblique number(31,15) autocad_thickness number(31,15) autocad_extmax_y number(31,15) autocad_viewport_snap_increment_y number(31,15) autocad_dim_clone_inspection_point.y number(31,15) autocad_viewport_resolved_target_y number(31,15) autocad_lineweight char(10) autocad_alignment_y number(31,15) autocad_block_insert_z number(31,15) autocad_viewport_perspective logical autocad_edge_1 char(10) autocad_mpolygon_gradient_one_color_mode number(5,0) fme_attrib_info{}.height number(31,15) autocad_mline_style char(50) autocad_viewport_grid_increment_x number(31,15) autocad_viewport_resolved_target_z number(31,15) autocad_base_y number(31,15) autocad_hatch_gradient_color2 char(50) autocad_sweep_angle number(31,15) autocad_color number(6,0) autocad_big_fontname char(65) fme_fill_color char(50) autocad_mpolygon_gradient_name char(32) autocad_base_x number(31,15) autocad_width number(31,15) autocad_size_y number(31,15) autocad_viewport_view_center_y number(31,15) fme_attrib_info{}.color.green number(31,15) autocad_invisible_attributes{} char(50) autocad_extrusion_y number(31,15) autocad_raster_display_opt_show_unaligned logical autocad_text_midpoint.x number(31,15) autocad_viewport_anno_scale_drawing_units number(31,15) autocad_defpt2.x number(31,15) autocad_path_type char(10) autocad_entity_handle char(50) autocad_zscale number(31,15) autocad_line_defpoint.y number(31,15) autocad_raster_fade number(4,0) autocad_shape_vertical char(6) autocad_num_verts number(5,0) autocad_control_weights string autocad_alignment_x number(31,15) autocad_viewport_default_lighting_type number(6,0) fme_sweep_angle number(31,15) autocad_viewport_on logical autocad_xrecord_data_list{} char(50) autocad_viewport_ambient_light_color number(6,0) autocad_mpolygon_gradient_shift number(31,15) autocad_group_anonymous char(50) autocad_hatch_pattern_name char(32) autocad_viewport_ucs_saved_with_viewport logical autocad_viewport_hidden_lines_removed logical autocad_edge_2 char(10) autocad_viewport_non_rect_clip_handle char(50) autocad_dim_arrowhead_pt_2.y number(31,15) autocad_mline_type char(50) autocad_text_rotation number(31,15) autocad_viewport_snap logical autocad_aunits number(6,0) fme_attrib_info{}.location_y number(31,15) autocad_start_tangent_z number(31,15) fme_attrib_info{}.align_x number(31,15) autocad_hatch_origin_point_y number(31,15) autocad_group_selectable char(50) autocad_viewport_snap_increment_x number(31,15) autocad_viewport_default_lighting logical fme_basename char(50) autocad_text_midpoint.z number(31,15) fme_attrib_info{}.color.source char(10) autocad_group_name char(50) autocad_mtext_ref_rect_width number(31,15) autocad_box_height number(31,15) autocad_viewport_contrast number(31,15) autocad_normal_z number(31,15) autocad_mpolygon_pixel_size number(31,15) autocad_dim_flag number(5,0) autocad_true_type_font char(50) autocad_num_knots number(11,0) autocad_end_tangent_z number(31,15) autocad_hatch_gradient_angle number(31,15) autocad_hatch_complex_mode number(5,0) autocad_viewport_grid_adaptive logical autocad_extmax_x number(31,15) autocad_oblique number(31,15) autocad_mpolygon_pattern_space number(31,15) autocad_original_rotation number(31,15) autocad_arc_defpt.z number(31,15) autocad_viewport_center_point_x number(31,15) autocad_attributes_follow logical autocad_viewport_center_point_z number(31,15) autocad_fill_color number(6,0) autocad_start_width number(31,15) autocad_viewport_ucs_xdir_x number(31,15) fme_attrib_info{}.color.red number(31,15) autocad_yscale number(31,15) autocad_block_name char(50) fme_text_string char(50) autocad_bulge char(50) autocad_generation char(30) autocad_viewport_view_target_y number(31,15) autocad_mpolygon_gradient_color2 char(50) autocad_base_z number(31,15) autocad_original_text_size number(31,15) autocad_viewport_snap_base_point_x number(31,15) autocad_viewport_ucs_origin_x number(31,15) autocad_primary_axis number(31,15) autocad_mpolygon_pattern_double number(5,0) fme_attrib_info{}.field_value char(2049) autocad_text_string char(50) autocad_viewport_ucs_ydir_x number(31,15) autocad_defpt2.z number(31,15) autocad_shape_rotation number(31,15) autocad_viewport_ucs_elevation number(31,15) autocad_mpolygon_object_type number(6,0) autocad_mpolygon_gradient_type number(6,0) autocad_mpolygon_gradient_color1 char(50) autocad_hatch_gradient_shift number(31,15) autocad_original_position_z number(31,15) autocad_dim_arrowhead_pt_2.x number(31,15) autocad_hatch_gradient_color1 char(50) autocad_viewport_back_clip_distance number(31,15) autocad_number_columns number(5,0) autocad_viewport_ucs_follow_mode logical autocad_defpt3.y number(31,15) autocad_angdir logical autocad_fillmode logical fme_color char(50) autocad_viewport_ucs_icon_origin logical autocad_rotation number(31,15) autocad_dim_arrowhead_pt_1.y number(31,15) autocad_fit_tolerance number(31,15) autocad_hatch_pattern_scale number(31,15) autocad_original_text_string string autocad_raster_filename string autocad_viewport_view_direction_x number(31,15) autocad_text_size number(31,15) autocad_viewport_view_target_x number(31,15) autocad_num_fit_pts number(11,0) autocad_viewport_view_direction_z number(31,15) autocad_original_entity char(50) autocad_group_description char(50) autocad_entity char(50) autocad_extrusion_x number(31,15) autocad_hatch_gradient_one_color_mode number(5,0) autocad_end_tangent_x number(31,15) autocad_linetype_scale number(31,15) fme_text_size number(31,15) autocad_viewport_view_height number(31,15) autocad_mpolygon_pattern_scale number(31,15) autocad_arrow_head_on logical autocad_linetype char(50) autocad_viewport_snap_iso_pair number(6,0) autocad_original_entity_type char(50) autocad_viewport_locked logical autocad_hatch_pattern_angle number(31,15) autocad_viewport_front_clip_distance number(31,15) autocad_attach_point char(50) autocad_extended_data_list{} char(50) autocad_hatch_loop{}.autocad_hatch_bulge{} number(31,15) autocad_arc_defpt.y number(31,15) autocad_mpolygon_pattern_type number(6,0) autocad_defpt2.y number(31,15) autocad_hatch_style number(6,0) autocad_knot_param char(10) autocad_viewport_ucs_icon_visible logical autocad_shape_filename char(65) autocad_viewport_grid logical autocad_projectname char(32)"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP autocad_settings autocad_layer_desc%autocad_layer_appearance_group%autocad_layer_state_group Layer&quot; &quot;&quot; &quot;GUI OPTIONAL DISCLOSUREGROUP autocad_layer_appearance_group autocad_linetype%autocad_color Appearance&quot; YES &quot;GUI OPTIONAL DISCLOSUREGROUP autocad_layer_state_group autocad_layer_on%autocad_layer_frozen%autocad_layer_hidden%autocad_layer_locked%autocad_layer_plottable State&quot; &quot;&quot; &quot;GUI INTEGER autocad_color Default Color&quot; 10 &quot;GUI TEXT autocad_linetype Default Linetype&quot; CONTINUOUS &quot;GUI CHOICE autocad_layer_frozen Yes%No Frozen&quot; No &quot;GUI CHOICE autocad_layer_hidden Yes%No Hidden&quot; No &quot;GUI CHOICE autocad_layer_locked Yes%No Locked&quot; No &quot;GUI CHOICE autocad_layer_on Yes%No On&quot; Yes &quot;GUI CHOICE autocad_layer_plottable Yes%No Plottable&quot; Yes &quot;GUI OPTIONAL TEXT autocad_layer_desc Description&quot; &quot;&quot; "
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=". %#[]&quot;()!?*&apos;&amp;+\/"
@@ -345,7 +345,7 @@
 #!   WRITE_DEFS="false"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_primary_axis number(31,15) fme_type char(50) fme_start_angle number(31,15) fme_fill_color char(50) fme_geometry char(50) fme_dataset char(50) fme_color char(50) fme_rotation number(31,15) fme_text_string char(50) fme_text_size number(31,15) fme_sweep_angle number(31,15) fme_feature_type char(50) fme_basename char(50) fme_secondary_axis number(31,15)"
+#!   EXPOSABLE_ATTRS="fme_geometry char(50) fme_feature_type char(50) fme_sweep_angle number(31,15) fme_secondary_axis number(31,15) fme_basename char(50) fme_color char(50) fme_primary_axis number(31,15) fme_text_size number(31,15) fme_rotation number(31,15) fme_start_angle number(31,15) fme_type char(50) fme_fill_color char(50) fme_text_string char(50) fme_dataset char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -667,144 +667,6 @@
 #!   IS_SOURCE="false"
 #!   FORMAT_TYPE="char(width)"
 #!   FME_TYPE="fme_varchar(width)"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_varbinary(width)"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_char(width)"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_binary(width)"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(20)"
-#!   FME_TYPE="fme_datetime"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(12)"
-#!   FME_TYPE="fme_time"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(8)"
-#!   FME_TYPE="fme_date"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="string"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="string"
-#!   FME_TYPE="fme_binarybuffer"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="string"
-#!   FME_TYPE="fme_xml"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="string"
-#!   FME_TYPE="fme_json"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="logical"
-#!   FME_TYPE="fme_boolean"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(31,15)"
-#!   FME_TYPE="fme_real64"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(15,7)"
-#!   FME_TYPE="fme_real32"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(20,0)"
-#!   FME_TYPE="fme_int64"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(20,0)"
-#!   FME_TYPE="fme_uint64"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(11,0)"
-#!   FME_TYPE="fme_int32"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(11,0)"
-#!   FME_TYPE="fme_uint32"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(6,0)"
-#!   FME_TYPE="fme_int16"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(6,0)"
-#!   FME_TYPE="fme_uint16"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(4,0)"
-#!   FME_TYPE="fme_int8"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(4,0)"
-#!   FME_TYPE="fme_uint8"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="number(width,decimal)"
-#!   FME_TYPE="fme_decimal(width,decimal)"
-#!   FORMAT="ACAD"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_varchar(width)"
 #!   FORMAT="NULL"
 #! />
 #! <DATA_TYPE
@@ -944,6 +806,144 @@
 #!   FORMAT_TYPE="number(width,decimal)"
 #!   FME_TYPE="fme_decimal(width,decimal)"
 #!   FORMAT="NULL"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_varchar(width)"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_varbinary(width)"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_binary(width)"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(20)"
+#!   FME_TYPE="fme_datetime"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(12)"
+#!   FME_TYPE="fme_time"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="char(8)"
+#!   FME_TYPE="fme_date"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="string"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="string"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="string"
+#!   FME_TYPE="fme_xml"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="string"
+#!   FME_TYPE="fme_json"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="logical"
+#!   FME_TYPE="fme_boolean"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(31,15)"
+#!   FME_TYPE="fme_real64"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(15,7)"
+#!   FME_TYPE="fme_real32"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(20,0)"
+#!   FME_TYPE="fme_int64"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(20,0)"
+#!   FME_TYPE="fme_uint64"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(11,0)"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(11,0)"
+#!   FME_TYPE="fme_uint32"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(6,0)"
+#!   FME_TYPE="fme_int16"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(6,0)"
+#!   FME_TYPE="fme_uint16"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(4,0)"
+#!   FME_TYPE="fme_int8"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(4,0)"
+#!   FME_TYPE="fme_uint8"
+#!   FORMAT="ACAD"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="number(width,decimal)"
+#!   FME_TYPE="fme_decimal(width,decimal)"
+#!   FORMAT="ACAD"
 #! />
 #! </DATA_TYPES>
 #! <GEOM_TYPES>
@@ -1216,6 +1216,102 @@
 #!   FORMAT_TYPE="igds_null"
 #!   FME_TYPE="fme_collection"
 #!   FORMAT="DGNV8"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_point"
+#!   FME_TYPE="fme_point"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_multipoint"
+#!   FME_TYPE="fme_point"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_line"
+#!   FME_TYPE="fme_line"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_polygon"
+#!   FME_TYPE="fme_area"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_point"
+#!   FME_TYPE="fme_text"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_polygon"
+#!   FME_TYPE="fme_ellipse"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_arc"
+#!   FME_TYPE="fme_arc"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_polygon"
+#!   FME_TYPE="fme_rectangle"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_polygon"
+#!   FME_TYPE="fme_rounded_rectangle"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_null"
+#!   FME_TYPE="fme_no_geom"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_polygon"
+#!   FME_TYPE="fme_raster"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_line"
+#!   FME_TYPE="fme_surface"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_line"
+#!   FME_TYPE="fme_solid"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_polygon"
+#!   FME_TYPE="fme_point_cloud"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_null"
+#!   FME_TYPE="fme_feature_table"
+#!   FORMAT="NULL"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="false"
+#!   FORMAT_TYPE="null_null"
+#!   FME_TYPE="fme_collection"
+#!   FORMAT="NULL"
 #! />
 #! <GEOM_TYPE
 #!   IS_SOURCE="false"
@@ -1523,102 +1619,6 @@
 #!   FME_TYPE="fme_feature_table"
 #!   FORMAT="ACAD"
 #! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_point"
-#!   FME_TYPE="fme_point"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_multipoint"
-#!   FME_TYPE="fme_point"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_line"
-#!   FME_TYPE="fme_line"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_polygon"
-#!   FME_TYPE="fme_area"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_point"
-#!   FME_TYPE="fme_text"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_polygon"
-#!   FME_TYPE="fme_ellipse"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_arc"
-#!   FME_TYPE="fme_arc"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_polygon"
-#!   FME_TYPE="fme_rectangle"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_polygon"
-#!   FME_TYPE="fme_rounded_rectangle"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_null"
-#!   FME_TYPE="fme_no_geom"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_polygon"
-#!   FME_TYPE="fme_raster"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_line"
-#!   FME_TYPE="fme_surface"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_line"
-#!   FME_TYPE="fme_solid"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_polygon"
-#!   FME_TYPE="fme_point_cloud"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_null"
-#!   FME_TYPE="fme_feature_table"
-#!   FORMAT="NULL"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="false"
-#!   FORMAT_TYPE="null_null"
-#!   FME_TYPE="fme_collection"
-#!   FORMAT="NULL"
-#! />
 #! </GEOM_TYPES>
 #! <FEATURE_TYPES>
 #! <FEATURE_TYPE
@@ -1629,14 +1629,14 @@
 #!   IS_EDITABLE="false"
 #!   IDENTIFIER="49"
 #!   FEAT_GEOMTYPE="xml_line"
-#!   POSITION="-3897.6275101161004 773.13738968827704"
-#!   BOUNDING_RECT="-3897.6275101161004 773.13738968827704 454 71"
+#!   POSITION="-4980.0658707315906 1149.0469458852886"
+#!   BOUNDING_RECT="-4980.0658707315906 1149.0469458852886 454 71"
 #!   ORDER="500000000000012"
 #!   COLLAPSED="true"
 #!   KEYWORD="GML_1"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
-#!   HIDDEN_USER_ATTRS="verticalPosition.nilReason utilityFacilityReference.xlink_role governmentalServiceReference.xlink_role beginLifespanVersion.xsi_nil currentStatus.xlink_href validFrom.xsi_nil inspireId.Identifier.versionId.nilReason utilityFacilityReference.xlink_href inNetwork&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role inNetwork&lt;opencurly&gt;&lt;closecurly&gt;.xsi_nil validTo currentStatus.xsi_nil validFrom.nilReason inNetwork&lt;opencurly&gt;&lt;closecurly&gt;.gml_remoteSchema inNetwork&lt;opencurly&gt;&lt;closecurly&gt;.owns currentStatus.gml_remoteSchema inspireId.Identifier.versionId endLifespanVersion utilityFacilityReference.xlink_title utilityFacilityReference.owns centrelineGeometry utilityFacilityReference.gml_remoteSchema currentStatus.xlink_role currentStatus.xlink_title endNode.owns utilityFacilityReference.xsi_nil beginLifespanVersion fictitious governmentalServiceReference.xsi_nil startNode.xlink_role currentStatus.nilReason verticalPosition.xsi_nil governmentalServiceReference.gml_remoteSchema governmentalServiceReference.xlink_href beginLifespanVersion.nilReason utilityFacilityReference.nilReason startNode.xlink_title endLifespanVersion.nilReason verticalPosition endNode.xlink_href validFrom startNode.owns validTo.xsi_nil governmentalServiceReference.xlink_title endNode.nilReason startNode.nilReason governmentalServiceReference.nilReason governmentalServiceReference.owns endNode.xlink_title startNode.xlink_href endLifespanVersion.xsi_nil inNetwork&lt;opencurly&gt;&lt;closecurly&gt;.nilReason inspireId.Identifier.versionId.xsi_nil validTo.nilReason currentStatus.owns endNode.xlink_role inspireId.Identifier.namespace inNetwork&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title"
+#!   HIDDEN_USER_ATTRS="currentStatus.xlink_role governmentalServiceReference.xlink_role validFrom.nilReason inNetwork&lt;opencurly&gt;&lt;closecurly&gt;.xsi_nil startNode.owns inNetwork&lt;opencurly&gt;&lt;closecurly&gt;.owns governmentalServiceReference.owns currentStatus.xsi_nil beginLifespanVersion.nilReason endNode.xlink_title utilityFacilityReference.xlink_title utilityFacilityReference.xsi_nil governmentalServiceReference.gml_remoteSchema governmentalServiceReference.xsi_nil endLifespanVersion endNode.xlink_role startNode.nilReason utilityFacilityReference.xlink_href inNetwork&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role currentStatus.nilReason validTo.xsi_nil inNetwork&lt;opencurly&gt;&lt;closecurly&gt;.nilReason validFrom.xsi_nil fictitious beginLifespanVersion.xsi_nil currentStatus.owns validTo.nilReason governmentalServiceReference.nilReason validFrom inspireId.Identifier.namespace startNode.xlink_role verticalPosition.xsi_nil governmentalServiceReference.xlink_title inNetwork&lt;opencurly&gt;&lt;closecurly&gt;.gml_remoteSchema inspireId.Identifier.versionId.xsi_nil endNode.xlink_href inNetwork&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title currentStatus.gml_remoteSchema inspireId.Identifier.versionId centrelineGeometry endLifespanVersion.nilReason verticalPosition.nilReason startNode.xlink_title endLifespanVersion.xsi_nil verticalPosition beginLifespanVersion endNode.nilReason utilityFacilityReference.xlink_role utilityFacilityReference.gml_remoteSchema endNode.owns startNode.xlink_href validTo currentStatus.xlink_title utilityFacilityReference.nilReason inspireId.Identifier.versionId.nilReason utilityFacilityReference.owns governmentalServiceReference.xlink_href currentStatus.xlink_href"
 #!   MERGE_FILTER="*"
 #!   MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
 #!   MERGE_FILTER_CASE_SENSITIVE="false"
@@ -1711,132 +1711,83 @@
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
 #!   NODE_NAME="Layer1"
-#!   FEATURE_TYPE_NAME="@Value(fme_feature_type)"
+#!   FEATURE_TYPE_NAME="@Value(layerName)"
 #!   FEATURE_TYPE_NAME_QUALIFIER=""
 #!   IS_EDITABLE="true"
 #!   IDENTIFIER="6"
-#!   FEAT_GEOMTYPE="&lt;NO_GEOMETRY&gt;"
-#!   POSITION="-389.55001317299173 599.63998883287252"
-#!   BOUNDING_RECT="-389.55001317299173 599.63998883287252 454 71"
-#!   ORDER="500000000000000"
+#!   FEAT_GEOMTYPE="All"
+#!   POSITION="-218.53381025733927 350.99619804713984"
+#!   BOUNDING_RECT="-218.53381025733927 350.99619804713984 430 71"
+#!   ORDER="500000000000054.13"
 #!   COLLAPSED="true"
 #!   KEYWORD="ACAD_1"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
-#!   SCHEMA_ATTRIBUTE_SOURCE="2"
-#!   DYNAMIC_SCHEMA="true"
-#!   DYNAMIC_SCHEMA_SOURCES="GML_1"
-#!   DYNAMIC_SCHEMA_FEATURE_TYPE="AUTOMATIC"
-#!   DYNAMIC_SCHEMA_FEATURE_TYPE_NAME="@Value(fme_feature_type)"
-#!   DYNAMIC_SCHEMA_DEFINITION="AUTOMATIC"
-#!   DYNAMIC_SCHEMA_DEFINITION_NAME=""
-#!   DYNAMIC_SCHEMA_GEOMETRY="AUTOMATIC"
-#!   DYNAMIC_SCHEMA_GEOMETRY_NAME="from_schema_definition"
-#!   DYNAMIC_SCHEMA_ATTRIBUTES_TO_REMOVE=""
+#!   SCHEMA_ATTRIBUTE_SOURCE="1"
 #! >
+#!     <FEAT_ATTRIBUTE ATTR_NAME="thema" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="netbeheerder" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="layerName" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="inspireId_Identifier_localId" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="inNetwork{}_xlink_href" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="endNode_gml_remoteSchema" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="startNode_gml_remoteSchema" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_id" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_property" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="gml_id" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="inspire_thema_id" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="thema_xlink_href" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="_thema{}" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="thema_color" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="fme_color" ATTR_TYPE="char(50)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="fme_fill_color" ATTR_TYPE="char(50)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="autocad_color" ATTR_TYPE="number(6,0)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="autocad_color" PARM_VALUE="10"/>
-#!     <DEFLINE_PARM PARM_NAME="autocad_layer_appearance_group" PARM_VALUE="YES"/>
+#!     <DEFLINE_PARM PARM_NAME="autocad_layer_appearance_group" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
 #!     <DEFLINE_PARM PARM_NAME="autocad_layer_desc" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="autocad_layer_frozen" PARM_VALUE="No"/>
 #!     <DEFLINE_PARM PARM_NAME="autocad_layer_hidden" PARM_VALUE="No"/>
 #!     <DEFLINE_PARM PARM_NAME="autocad_layer_locked" PARM_VALUE="No"/>
 #!     <DEFLINE_PARM PARM_NAME="autocad_layer_on" PARM_VALUE="Yes"/>
 #!     <DEFLINE_PARM PARM_NAME="autocad_layer_plottable" PARM_VALUE="Yes"/>
-#!     <DEFLINE_PARM PARM_NAME="autocad_layer_state_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="autocad_layer_state_group" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
 #!     <DEFLINE_PARM PARM_NAME="autocad_linetype" PARM_VALUE="CONTINUOUS"/>
 #!     <DEFLINE_PARM PARM_NAME="autocad_settings" PARM_VALUE=""/>
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #!   IS_SOURCE="false"
 #!   NODE_NAME="UtilityLink"
-#!   FEATURE_TYPE_NAME="@Value(fme_feature_type)"
+#!   FEATURE_TYPE_NAME="@Value(layerName)"
 #!   FEATURE_TYPE_NAME_QUALIFIER=""
 #!   IS_EDITABLE="true"
 #!   IDENTIFIER="11"
 #!   FEAT_GEOMTYPE="All"
-#!   POSITION="-393.55001317299173 260.88528968015896"
-#!   BOUNDING_RECT="-393.55001317299173 260.88528968015896 454 71"
-#!   ORDER="500000000000013"
+#!   POSITION="-222.53381025733927 615.44046566670158"
+#!   BOUNDING_RECT="-222.53381025733927 615.44046566670158 430 71"
+#!   ORDER="500000000000052.13"
 #!   COLLAPSED="true"
 #!   KEYWORD="DGNV8_1"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
-#!   SCHEMA_ATTRIBUTE_SOURCE="2"
-#!   DYNAMIC_SCHEMA="true"
-#!   DYNAMIC_SCHEMA_SOURCES="GML_1 SCHEMA_FROM_FIRST_FEATURE              "
-#!   DYNAMIC_SCHEMA_FEATURE_TYPE="AUTOMATIC"
-#!   DYNAMIC_SCHEMA_FEATURE_TYPE_NAME="@Value(fme_feature_type)"
-#!   DYNAMIC_SCHEMA_DEFINITION="AUTOMATIC"
-#!   DYNAMIC_SCHEMA_DEFINITION_NAME=""
-#!   DYNAMIC_SCHEMA_GEOMETRY="AUTOMATIC"
-#!   DYNAMIC_SCHEMA_GEOMETRY_NAME="from_schema_definition"
-#!   DYNAMIC_SCHEMA_ATTRIBUTES_TO_REMOVE=""
+#!   SCHEMA_ATTRIBUTE_SOURCE="1"
 #! >
+#!     <FEAT_ATTRIBUTE ATTR_NAME="thema" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="netbeheerder" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="layerName" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="inspireId.Identifier.localId" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="inNetwork{}.xlink_href" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="endNode.gml_remoteSchema" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="startNode.gml_remoteSchema" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_id" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_property" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="gml_id" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="beginLifespanVersion" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="beginLifespanVersion.nilReason" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="beginLifespanVersion.xsi_nil" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="inspireId.Identifier.localId" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="inspireId.Identifier.namespace" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="inspireId.Identifier.versionId" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="inspireId.Identifier.versionId.nilReason" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="inspireId.Identifier.versionId.xsi_nil" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="endLifespanVersion" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="endLifespanVersion.nilReason" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="endLifespanVersion.xsi_nil" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="inNetwork{}.owns" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="inNetwork{}.nilReason" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="inNetwork{}.gml_remoteSchema" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="inNetwork{}.xlink_href" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="inNetwork{}.xlink_role" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="inNetwork{}.xlink_title" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="inNetwork{}.xsi_nil" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="centrelineGeometry" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="fictitious" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="endNode.owns" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="endNode.nilReason" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="endNode.gml_remoteSchema" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="endNode.xlink_href" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="endNode.xlink_role" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="endNode.xlink_title" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="startNode.owns" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="startNode.nilReason" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="startNode.gml_remoteSchema" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="startNode.xlink_href" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="startNode.xlink_role" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="startNode.xlink_title" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="currentStatus.owns" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="currentStatus.nilReason" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="currentStatus.gml_remoteSchema" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="currentStatus.xlink_href" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="currentStatus.xlink_role" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="currentStatus.xlink_title" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="currentStatus.xsi_nil" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="validFrom" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="validFrom.nilReason" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="validFrom.xsi_nil" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="validTo" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="validTo.nilReason" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="validTo.xsi_nil" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="verticalPosition" ATTR_TYPE="char(19)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="verticalPosition.nilReason" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="verticalPosition.xsi_nil" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="utilityFacilityReference.nilReason" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="utilityFacilityReference.gml_remoteSchema" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="utilityFacilityReference.xlink_href" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="utilityFacilityReference.xlink_role" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="utilityFacilityReference.xlink_title" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="utilityFacilityReference.owns" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="utilityFacilityReference.xsi_nil" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="governmentalServiceReference.nilReason" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="governmentalServiceReference.gml_remoteSchema" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="governmentalServiceReference.xlink_href" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="governmentalServiceReference.xlink_role" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="governmentalServiceReference.xlink_title" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="governmentalServiceReference.owns" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="governmentalServiceReference.xsi_nil" ATTR_TYPE="char(5)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="inspire_thema_id" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="thema.xlink_href" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="_thema{}" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="thema_color" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="fme_color" ATTR_TYPE="char(50)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="fme_fill_color" ATTR_TYPE="char(50)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="igds_color" ATTR_TYPE="integer"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="igds_level" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="igds_level_color" PARM_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="igds_level_comment" PARM_VALUE=""/>
@@ -1862,14 +1813,14 @@
 #!   IS_EDITABLE="false"
 #!   IDENTIFIER="9"
 #!   FEAT_GEOMTYPE="xml_no_geom"
-#!   POSITION="-3897.6275101161009 447.26513474614791"
-#!   BOUNDING_RECT="-3897.6275101161009 447.26513474614791 454 71"
+#!   POSITION="-4980.0658707315906 823.17469094315948"
+#!   BOUNDING_RECT="-4980.0658707315906 823.17469094315948 454 71"
 #!   ORDER="500000000000000"
 #!   COLLAPSED="true"
 #!   KEYWORD="GML_2"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
-#!   HIDDEN_USER_ATTRS="geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.transliterationScheme elements&lt;opencurly&gt;&lt;closecurly&gt;.xlink_href networks&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DimensionNameTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_TopologyLevelCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_PresentationFormCode authorityRole&lt;opencurly&gt;&lt;closecurly&gt;.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DQ_EvaluationMethodTypeCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_RestrictionCode.codeList utilityNetworkType.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DatatypeCode beginLifespanVersion geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.transliterationScheme.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_KeywordTypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumFormatCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DistributionUnits.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.PronunciationOfName.pronunciationIPA.nilReason networks&lt;opencurly&gt;&lt;closecurly&gt;.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_OnLineFunctionCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DQ_EvaluationMethodTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LanguageCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CellGeometryCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LocalisedCharacterString.locale disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_DateTypeCode.codeSpace networks&lt;opencurly&gt;&lt;closecurly&gt;.nilReason networks&lt;opencurly&gt;&lt;closecurly&gt;.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ClassificationCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CoverageContentTypeCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.language.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.Country disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_GeometricObjectTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.LocalisedCharacterString networks&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_KeywordTypeCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DimensionNameTypeCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CellGeometryCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LanguageCode.codeSpace geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.xlink_role geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.xlink_title disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_OnLineFunctionCode.codeSpace geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.xlink_href disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MaintenanceFrequencyCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_RestrictionCode.codeListValue geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ObligationCode thema.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_TopologyLevelCode.codeListValue geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_DateTypeCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.text disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ClassificationCode.codeSpace geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.sourceOfName.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_PresentationFormCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.LocalisedCharacterString.locale geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.xlink_title disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LanguageCode.codeListValue heeftExtraInformatie&lt;opencurly&gt;&lt;closecurly&gt;.xlink_href utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_SpatialRepresentationTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumNameCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_GeometricObjectTypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LanguageCode.codeList utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.nilReason heeftExtraInformatie&lt;opencurly&gt;&lt;closecurly&gt;.gml_remoteSchema geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CharacterString geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.xlink_role geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.gco_nilReason thema.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_AssociationTypeCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DatatypeCode.codeSpace utilityNetworkType.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_AssociationTypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CellGeometryCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_PixelOrientationCode thema.xlink_title geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DatatypeCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CharacterSetCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.PronunciationOfName.pronunciationIPA.xsi_nil geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.xsi_nil thema.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_RestrictionCode.codeSpace geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.xsi_nil geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.PronunciationOfName.pronunciationSoundLink.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.uuidref disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ImagingConditionCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.script.xsi_nil utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.xlink_href disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CharacterSetCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_SpatialRepresentationTypeCode.codeSpace geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.xlink_href disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.Country.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LocalisedCharacterString.id disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_GeometricObjectTypeCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_PresentationFormCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DimensionNameTypeCode.codeListValue standaardDieptelegging.uom disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LocalisedCharacterString disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ProgressCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ScopeCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.id disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ScopeCode authorityRole&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ProgressCode heeftExtraInformatie&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.uuid disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_PresentationFormCode.codeListValue authorityRole&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumFormatCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.xsi_nil elements&lt;opencurly&gt;&lt;closecurly&gt;.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_InitiativeTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DistributionUnits disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DistributionUnits.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_OnLineFunctionCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ScopeCode.codeSpace identificatie.NEN3610ID.versie heeftExtraInformatie&lt;opencurly&gt;&lt;closecurly&gt;.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role utilityNetworkType.gml_remoteSchema utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.owns geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.nilReason utilityNetworkType.xlink_title disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_SpatialRepresentationTypeCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ScopeCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DatatypeCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ProgressCode.codeListValue authorityRole&lt;opencurly&gt;&lt;closecurly&gt;.xlink_href authorityRole&lt;opencurly&gt;&lt;closecurly&gt;.owns utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ClassificationCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MaintenanceFrequencyCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_DateTypeCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_InitiativeTypeCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DistributionUnits.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CellGeometryCode.codeList label disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CharacterSetCode.codeListValue identificatie.NEN3610ID.lokaalID disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CoverageContentTypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.Country.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DQ_EvaluationMethodTypeCode.codeListValue geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.owns geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.script.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ClassificationCode elements&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.Country.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DimensionNameTypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_KeywordTypeCode.codeListValue utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.xsi_nil geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.script elements&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.transliterationScheme.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_RoleCode.codeSpace networks&lt;opencurly&gt;&lt;closecurly&gt;.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_InitiativeTypeCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ImagingConditionCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.language.xsi_nil geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.PronunciationOfName.pronunciationIPA geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.xlink_href disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ImagingConditionCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumNameCode.codeListValue authorityRole&lt;opencurly&gt;&lt;closecurly&gt;.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_RoleCode.codeListValue omschrijving disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_RoleCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.xlink_role elements&lt;opencurly&gt;&lt;closecurly&gt;.nilReason utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.gco_nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_GeometricObjectTypeCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MaintenanceFrequencyCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumFormatCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.xlink_href geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.xlink_href geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.PronunciationOfName.pronunciationSoundLink disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumNameCode.codeSpace endLifespanVersion geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.language disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_SpatialRepresentationTypeCode.codeList elements&lt;opencurly&gt;&lt;closecurly&gt;.gml_remoteSchema geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.xlink_title disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_TopicCategoryCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.LocalisedCharacterString.id disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_TopologyLevelCode.codeSpace geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.owns geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.PronunciationOfName.pronunciationSoundLink.nilReason geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.nilReason heeftExtraInformatie&lt;opencurly&gt;&lt;closecurly&gt;.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CoverageContentTypeCode networks&lt;opencurly&gt;&lt;closecurly&gt;.xlink_href thema.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_DateTypeCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.sourceOfName disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_RoleCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CharacterSetCode.codeList standaardDieptelegging geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.sourceOfName.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_TopologyLevelCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CoverageContentTypeCode.codeListValue identificatie.NEN3610ID.namespace heeftExtraInformatie&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_OnLineFunctionCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumFormatCode.codeList utilityNetworkType.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_AssociationTypeCode.codeListValue utilityNetworkType.xlink_href disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_RestrictionCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.xlink_title geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MaintenanceFrequencyCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_KeywordTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_InitiativeTypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ImagingConditionCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DQ_EvaluationMethodTypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_AssociationTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ProgressCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumNameCode"
+#!   HIDDEN_USER_ATTRS="disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ClassificationCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_OnLineFunctionCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_OnLineFunctionCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_PresentationFormCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_SpatialRepresentationTypeCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.language disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_TopicCategoryCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CellGeometryCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_AssociationTypeCode utilityNetworkType.xlink_title disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MaintenanceFrequencyCode.codeListValue networks&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_RestrictionCode networks&lt;opencurly&gt;&lt;closecurly&gt;.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ImagingConditionCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DistributionUnits.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DistributionUnits.codeListValue beginLifespanVersion geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.xlink_role utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumNameCode.codeSpace authorityRole&lt;opencurly&gt;&lt;closecurly&gt;.xlink_href disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DatatypeCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.script disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_PresentationFormCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DatatypeCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ScopeCode utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.owns utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.nilReason geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DimensionNameTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.LocalisedCharacterString geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_GeometricObjectTypeCode.codeListValue geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.PronunciationOfName.pronunciationIPA.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.Country.codeSpace geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MaintenanceFrequencyCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumFormatCode authorityRole&lt;opencurly&gt;&lt;closecurly&gt;.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CellGeometryCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.PronunciationOfName.pronunciationSoundLink.xsi_nil geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.PronunciationOfName.pronunciationSoundLink disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CoverageContentTypeCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_GeometricObjectTypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MaintenanceFrequencyCode.codeSpace elements&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role identificatie.NEN3610ID.namespace geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.xsi_nil geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_RestrictionCode.codeListValue networks&lt;opencurly&gt;&lt;closecurly&gt;.xlink_href disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_RoleCode.codeListValue heeftExtraInformatie&lt;opencurly&gt;&lt;closecurly&gt;.owns geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.PronunciationOfName.pronunciationIPA.xsi_nil geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.language.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ImagingConditionCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CharacterSetCode.codeList heeftExtraInformatie&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ScopeCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ScopeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DatatypeCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CellGeometryCode.codeListValue heeftExtraInformatie&lt;opencurly&gt;&lt;closecurly&gt;.gml_remoteSchema geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.transliterationScheme.xsi_nil geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.xlink_href geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.nilReason identificatie.NEN3610ID.versie disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_TopologyLevelCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_KeywordTypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumNameCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LanguageCode.codeListValue geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.LocalisedCharacterString.locale utilityNetworkType.gml_remoteSchema utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ClassificationCode.codeSpace elements&lt;opencurly&gt;&lt;closecurly&gt;.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.LocalisedCharacterString.id standaardDieptelegging disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ScopeCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ClassificationCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_AssociationTypeCode.codeSpace utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.xlink_href disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ClassificationCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumFormatCode.codeSpace authorityRole&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_DateTypeCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CellGeometryCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.xlink_title disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CharacterString disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DimensionNameTypeCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_InitiativeTypeCode.codeSpace geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.script.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DistributionUnits.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CharacterSetCode.codeSpace geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_SpatialRepresentationTypeCode.codeListValue utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ImagingConditionCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.uuid utilityNetworkType.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_AssociationTypeCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LocalisedCharacterString.id geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CoverageContentTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_RestrictionCode.codeList networks&lt;opencurly&gt;&lt;closecurly&gt;.nilReason geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_InitiativeTypeCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_InitiativeTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumFormatCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_SpatialRepresentationTypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_GeometricObjectTypeCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.PronunciationOfName.pronunciationSoundLink.nilReason utilityNetworkType.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CharacterSetCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.transliterationScheme networks&lt;opencurly&gt;&lt;closecurly&gt;.xsi_nil disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LanguageCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_RoleCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.sourceOfName geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.xlink_title geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DistributionUnits disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumNameCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.language.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.Country.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_OnLineFunctionCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_AssociationTypeCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DQ_EvaluationMethodTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_TopologyLevelCode.codeList networks&lt;opencurly&gt;&lt;closecurly&gt;.gml_remoteSchema geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.xlink_title geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.xlink_role authorityRole&lt;opencurly&gt;&lt;closecurly&gt;.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.gco_nilReason thema.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_GeometricObjectTypeCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.pronunciation.PronunciationOfName.pronunciationIPA disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumFormatCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_SpatialRepresentationTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.Country disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_KeywordTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.uuidref label geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.text heeftExtraInformatie&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MaintenanceFrequencyCode.codeList identificatie.NEN3610ID.lokaalID authorityRole&lt;opencurly&gt;&lt;closecurly&gt;.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_RoleCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ProgressCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.xlink_href disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_PresentationFormCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_DateTypeCode.codeListValue geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.script.nilReason utilityNetworkType.xlink_href geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.owns disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ProgressCode.codeList thema.xlink_role utilityNetworkType.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DS_InitiativeTypeCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LocalisedCharacterString disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_DateTypeCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CoverageContentTypeCode.codeSpace standaardDieptelegging.uom disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DQ_EvaluationMethodTypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DimensionNameTypeCode.codeListValue geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.xsi_nil thema.xlink_title thema.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CoverageContentTypeCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.xlink_href disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_DateTypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_MediumNameCode.codeListValue heeftExtraInformatie&lt;opencurly&gt;&lt;closecurly&gt;.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LanguageCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_TopologyLevelCode.codeListValue authorityRole&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DatatypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_PresentationFormCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_DimensionNameTypeCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.gco_nilReason endLifespanVersion elements&lt;opencurly&gt;&lt;closecurly&gt;.xlink_href disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.Country.codeListValue elements&lt;opencurly&gt;&lt;closecurly&gt;.gml_remoteSchema geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalGender.xlink_href utilityFacilityReference&lt;opencurly&gt;&lt;closecurly&gt;.xlink_role thema.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ImagingConditionCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ProgressCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.id geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.owns omschrijving disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DQ_EvaluationMethodTypeCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_TopologyLevelCode.codeSpace networks&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.xlink_title elements&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.DQ_EvaluationMethodTypeCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LocalisedCharacterString.locale geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.spelling&lt;opencurly&gt;&lt;closecurly&gt;.SpellingOfName.transliterationScheme.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_KeywordTypeCode.codeList disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_PixelOrientationCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_KeywordTypeCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ObligationCode geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.sourceOfName.xsi_nil geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nameStatus.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_RoleCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.CI_OnLineFunctionCode disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.LanguageCode.codeList geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.xsi_nil geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.sourceOfName.nilReason disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_ProgressCode.codeSpace geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.nativeness.gml_remoteSchema disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_CharacterSetCode.codeListValue disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.MD_RestrictionCode.codeSpace disclaimer&lt;opencurly&gt;&lt;closecurly&gt;.PT_FreeText.textGroup&lt;opencurly&gt;&lt;closecurly&gt;.xlink_title geographicalName&lt;opencurly&gt;&lt;closecurly&gt;.GeographicalName.grammaticalNumber.xlink_href elements&lt;opencurly&gt;&lt;closecurly&gt;.nilReason heeftExtraInformatie&lt;opencurly&gt;&lt;closecurly&gt;.xlink_href"
 #!   MERGE_FILTER="*"
 #!   MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
 #!   MERGE_FILTER_CASE_SENSITIVE="false"
@@ -2118,15 +2069,18 @@
 #!   IS_EDITABLE="true"
 #!   IDENTIFIER="32"
 #!   FEAT_GEOMTYPE="All"
-#!   POSITION="-393.55001317299173 -73.712628923561141"
-#!   BOUNDING_RECT="-393.55001317299173 -73.712628923561141 454 71"
-#!   ORDER="500000000000040.13"
+#!   POSITION="-222.53381025733927 77.64758033070575"
+#!   BOUNDING_RECT="-222.53381025733927 77.64758033070575 454 71"
+#!   ORDER="500000000000042.13"
 #!   COLLAPSED="true"
 #!   KEYWORD="ACAD_2"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
 #!   SCHEMA_ATTRIBUTE_SOURCE="1"
 #! >
+#!     <FEAT_ATTRIBUTE ATTR_NAME="thema" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="netbeheerder" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="layerName" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="inspireId_Identifier_localId" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="inNetwork{}_xlink_href" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="endNode_gml_remoteSchema" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
@@ -2134,8 +2088,12 @@
 #!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_id" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="gml_parent_property" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <FEAT_ATTRIBUTE ATTR_NAME="gml_id" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="thema" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
-#!     <FEAT_ATTRIBUTE ATTR_NAME="netbeheerder" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="inspire_thema_id" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="thema_xlink_href" ATTR_TYPE="string" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="_thema{}" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="thema_color" ATTR_TYPE="char(200)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="fme_color" ATTR_TYPE="char(50)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="fme_fill_color" ATTR_TYPE="char(50)"  EXPOSABLE_ATTR="true" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
 #!     <DEFLINE_PARM PARM_NAME="autocad_color" PARM_VALUE="10"/>
 #!     <DEFLINE_PARM PARM_NAME="autocad_layer_appearance_group" PARM_VALUE="YES"/>
 #!     <DEFLINE_PARM PARM_NAME="autocad_layer_desc" PARM_VALUE="@Value(layerName)"/>
@@ -2156,8 +2114,8 @@
 #!   IS_EDITABLE="true"
 #!   IDENTIFIER="38"
 #!   FEAT_GEOMTYPE="All"
-#!   POSITION="-365.55001317299173 -498.05884179073951"
-#!   BOUNDING_RECT="-365.55001317299173 -498.05884179073951 430 71"
+#!   POSITION="-2849.3109980292174 -352.31739681715885"
+#!   BOUNDING_RECT="-2849.3109980292174 -352.31739681715885 430 71"
 #!   ORDER="500000000000039.13"
 #!   COLLAPSED="true"
 #!   KEYWORD="NULL_1"
@@ -2236,11 +2194,11 @@
 #!   IDENTIFIER="14"
 #!   NAME="DXF Writer"
 #!   DESCRIPTION=""
-#!   TOP_LEFT="-481.55001317299173 722.1399288322724"
+#!   TOP_LEFT="-310.53381025733927 473.49613804653995"
 #!   ORDER="500000000000016"
 #!   PALETTE_COLOR="Color1"
-#!   BOTTOM_RIGHT="152.44998682700827 469.1399288322724"
-#!   BOUNDING_RECT="-481.55001317299173 722.1399288322724 634 253"
+#!   BOTTOM_RIGHT="323.46618974266073 220.49613804653995"
+#!   BOUNDING_RECT="-310.53381025733927 473.49613804653995 634 253"
 #!   STICKY="true"
 #!   COLOUR="0.59999999999999998,0.80000000000000004,0.80000000000000004,1"
 #!   CONTENTS="6 "
@@ -2250,11 +2208,11 @@
 #!   IDENTIFIER="15"
 #!   NAME="DGN Writer"
 #!   DESCRIPTION=""
-#!   TOP_LEFT="-481.55001317299173 383.7633335553619"
+#!   TOP_LEFT="-310.53381025733927 738.3185095419044"
 #!   ORDER="500000000000017"
 #!   PALETTE_COLOR="Color2"
-#!   BOTTOM_RIGHT="152.44998682700827 139.32019453941177"
-#!   BOUNDING_RECT="-481.55001317299173 383.7633335553619 634 244.44313901595012"
+#!   BOTTOM_RIGHT="323.46618974266073 493.87537052595428"
+#!   BOUNDING_RECT="-310.53381025733927 738.3185095419044 634 244.44313901595012"
 #!   STICKY="true"
 #!   COLOUR="0.63529411764705879,0.80000000000000004,0.59999999999999998,1"
 #!   CONTENTS="11 "
@@ -2264,11 +2222,11 @@
 #!   IDENTIFIER="16"
 #!   NAME="XML Reader"
 #!   DESCRIPTION=""
-#!   TOP_LEFT="-3993.913267259386 908.92317683186275"
+#!   TOP_LEFT="-5076.3516278748757 1284.8327330288744"
 #!   ORDER="500000000000018.13"
 #!   PALETTE_COLOR="Color3"
-#!   BOTTOM_RIGHT="-3359.913267259386 655.92317683186275"
-#!   BOUNDING_RECT="-3993.913267259386 908.92317683186275 634 253"
+#!   BOTTOM_RIGHT="-4442.3516278748757 1031.8327330288744"
+#!   BOUNDING_RECT="-5076.3516278748757 1284.8327330288744 634 253"
 #!   STICKY="true"
 #!   COLOUR="1,0.85490196078431369,0.59999999999999998,1"
 #!   CONTENTS="49 "
@@ -2278,11 +2236,11 @@
 #!   IDENTIFIER="18"
 #!   NAME="XML Reader"
 #!   DESCRIPTION=""
-#!   TOP_LEFT="-3993.913267259386 569.98724163782026"
+#!   TOP_LEFT="-5076.3516278748757 945.89679783483177"
 #!   ORDER="500000000000018.13"
 #!   PALETTE_COLOR="Color3"
-#!   BOTTOM_RIGHT="-3359.913267259386 316.98724163782026"
-#!   BOUNDING_RECT="-3993.913267259386 569.98724163782026 634 253"
+#!   BOTTOM_RIGHT="-4442.3516278748757 692.89679783483177"
+#!   BOUNDING_RECT="-5076.3516278748757 945.89679783483177 634 253"
 #!   STICKY="true"
 #!   COLOUR="1,0.85490196078431369,0.59999999999999998,1"
 #!   CONTENTS="9 "
@@ -2292,11 +2250,11 @@
 #!   IDENTIFIER="30"
 #!   NAME="DXF Total Writer"
 #!   DESCRIPTION=""
-#!   TOP_LEFT="-481.55001317299173 54.787371076438845"
+#!   TOP_LEFT="-310.53381025733927 206.14758033070575"
 #!   ORDER="500000000000035.13"
 #!   PALETTE_COLOR="Color2"
-#!   BOTTOM_RIGHT="152.44998682700827 -198.21262892356117"
-#!   BOUNDING_RECT="-481.55001317299173 54.787371076438845 634 253"
+#!   BOTTOM_RIGHT="323.46618974266073 -46.85241966929425"
+#!   BOUNDING_RECT="-310.53381025733927 206.14758033070575 634 253"
 #!   STICKY="true"
 #!   COLOUR="0.63529411764705879,0.80000000000000004,0.59999999999999998,1"
 #!   CONTENTS="32 "
@@ -2308,8 +2266,8 @@
 #!   IDENTIFIER="17"
 #!   TYPE="FeatureJoiner"
 #!   VERSION="1000"
-#!   POSITION="-2247.2762582780324 842.96033673437887"
-#!   BOUNDING_RECT="-2247.2762582780324 842.96033673437887 430 71"
+#!   POSITION="-3416.4460756926401 1218.8698929313905"
+#!   BOUNDING_RECT="-3416.4460756926401 1218.8698929313905 516.73145679911795 71"
 #!   ORDER="500000000000025.13"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
@@ -2369,8 +2327,8 @@
 #!   IDENTIFIER="20"
 #!   TYPE="AttributeCreator"
 #!   VERSION="9"
-#!   POSITION="-3108.4427385627232 447.26513474614791"
-#!   BOUNDING_RECT="-3108.4427385627232 447.26513474614791 667.62606825772946 71"
+#!   POSITION="-4190.8810991782138 823.17469094315948"
+#!   BOUNDING_RECT="-4190.8810991782138 823.17469094315948 667.62606825772946 71"
 #!   ORDER="500000000000026.13"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
@@ -2398,8 +2356,8 @@
 #!   IDENTIFIER="23"
 #!   TYPE="AttributeSplitter"
 #!   VERSION="3"
-#!   POSITION="-1607.2581360734241 1015.6281700793789"
-#!   BOUNDING_RECT="-1607.2581360734241 1015.6281700793789 454 71"
+#!   POSITION="-2689.6964966889145 1391.5377262763905"
+#!   BOUNDING_RECT="-2689.6964966889145 1391.5377262763905 454 71"
 #!   ORDER="500000000000029.13"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
@@ -2430,8 +2388,8 @@
 #!   IDENTIFIER="27"
 #!   TYPE="AttributeCreator"
 #!   VERSION="9"
-#!   POSITION="-1562.7349255948702 653.75546130338637"
-#!   BOUNDING_RECT="-1562.7349255948702 653.75546130338637 454 71"
+#!   POSITION="-2645.1732862103599 1029.6650175003979"
+#!   BOUNDING_RECT="-2645.1732862103599 1029.6650175003979 454 71"
 #!   ORDER="500000000000030.13"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
@@ -2467,8 +2425,8 @@
 #!   IDENTIFIER="31"
 #!   TYPE="FeatureColorSetter"
 #!   VERSION="2"
-#!   POSITION="-1559.9526073371408 -5.0289315602718343"
-#!   BOUNDING_RECT="-1559.9526073371408 -5.0289315602718343 454 71"
+#!   POSITION="-2645.1732862103599 416.44029075971685"
+#!   BOUNDING_RECT="-2645.1732862103599 416.44029075971685 454 71"
 #!   ORDER="500000000000037.13"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
@@ -2529,8 +2487,8 @@
 #!   IDENTIFIER="35"
 #!   TYPE="AttributeValueMapper"
 #!   VERSION="6"
-#!   POSITION="-1562.7349255948702 318.65851584051808"
-#!   BOUNDING_RECT="-1562.7349255948702 318.65851584051808 456.78231825772946 71"
+#!   POSITION="-2645.1732862103599 694.56807203752965"
+#!   BOUNDING_RECT="-2645.1732862103599 694.56807203752965 456.78231825772946 71"
 #!   ORDER="500000000000038.13"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
@@ -2555,7 +2513,7 @@
 #!     <XFORM_PARM PARM_NAME="ATTR_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="#000000"/>
 #!     <XFORM_PARM PARM_NAME="DIRECTION" PARM_VALUE="Forward (Source To Destination)"/>
-#!     <XFORM_PARM PARM_NAME="LUT" PARM_VALUE="datatransport,0&lt;comma&gt;255&lt;comma&gt;0,gasLageDruk,255&lt;comma&gt;215&lt;comma&gt;80,gasHogeDruk,255&lt;comma&gt;175&lt;comma&gt;60,buisleidingGevaarlijkeInhoud,255&lt;comma&gt;127&lt;comma&gt;0,landelijkHoogspanningsnet,255&lt;comma&gt;0&lt;comma&gt;0,hoogspanning,255&lt;comma&gt;0&lt;comma&gt;0,middenspanning,200&lt;comma&gt;0&lt;comma&gt;0,laagspanning,150&lt;comma&gt;0&lt;comma&gt;0,petrochemie,182&lt;comma&gt;74&lt;comma&gt;0,rioolVrijVerval,186&lt;comma&gt;56&lt;comma&gt;168,rioolOnderDruk,128&lt;comma&gt;0&lt;comma&gt;128,rioolOnderOverOfOnderdruk,128&lt;comma&gt;0&lt;comma&gt;128,warmte,0&lt;comma&gt;128&lt;comma&gt;128,water,0&lt;comma&gt;0&lt;comma&gt;255,wees,0&lt;comma&gt;0&lt;comma&gt;0,overig,0&lt;comma&gt;0&lt;comma&gt;0"/>
+#!     <XFORM_PARM PARM_NAME="LUT" PARM_VALUE="datatransport,0&lt;comma&gt;1&lt;comma&gt;0,gasLageDruk,1&lt;comma&gt;0.84&lt;comma&gt;0.31,gasHogeDruk,1&lt;comma&gt;0.686&lt;comma&gt;0.23,buisleidingGevaarlijkeInhoud,1&lt;comma&gt;0.5&lt;comma&gt;0,landelijkHoogspanningsnet,1&lt;comma&gt;0&lt;comma&gt;0,hoogspanning,1&lt;comma&gt;0&lt;comma&gt;0,middenspanning,0.784&lt;comma&gt;0&lt;comma&gt;0,laagspanning,0.588&lt;comma&gt;0&lt;comma&gt;0,petrochemie,1.41&lt;comma&gt;0.29&lt;comma&gt;0,rioolVrijVerval,0.73&lt;comma&gt;0.22&lt;comma&gt;0.66,rioolOnderDruk,0.5&lt;comma&gt;0&lt;comma&gt;0.5,rioolOnderOverOfOnderdruk,0.5&lt;comma&gt;0&lt;comma&gt;0.5,warmte,0.5&lt;comma&gt;0&lt;comma&gt;0.5,water,0&lt;comma&gt;0&lt;comma&gt;1,wees,0&lt;comma&gt;0&lt;comma&gt;0,overig,0&lt;comma&gt;0&lt;comma&gt;0"/>
 #!     <XFORM_PARM PARM_NAME="SRC" PARM_VALUE="thema"/>
 #!     <XFORM_PARM PARM_NAME="VALUE_MAP_TABLE_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="thema_color"/>
@@ -2631,9 +2589,9 @@
 #!   EXTRA_POINTS=""
 #! />
 #! <FEAT_LINK
-#!   IDENTIFIER="34"
+#!   IDENTIFIER="33"
 #!   SOURCE_NODE="31"
-#!   TARGET_NODE="32"
+#!   TARGET_NODE="11"
 #!   SOURCE_PORT_DESC="fo 0 COLORED"
 #!   TARGET_PORT_DESC="-1"
 #!   ENABLED="true"
@@ -2642,9 +2600,9 @@
 #!   EXTRA_POINTS=""
 #! />
 #! <FEAT_LINK
-#!   IDENTIFIER="33"
+#!   IDENTIFIER="45"
 #!   SOURCE_NODE="31"
-#!   TARGET_NODE="11"
+#!   TARGET_NODE="32"
 #!   SOURCE_PORT_DESC="fo 0 COLORED"
 #!   TARGET_PORT_DESC="-1"
 #!   ENABLED="true"
@@ -2653,7 +2611,7 @@
 #!   EXTRA_POINTS=""
 #! />
 #! <FEAT_LINK
-#!   IDENTIFIER="41"
+#!   IDENTIFIER="44"
 #!   SOURCE_NODE="31"
 #!   TARGET_NODE="6"
 #!   SOURCE_PORT_DESC="fo 0 COLORED"
@@ -2700,6 +2658,90 @@
 #! <BREAKPOINTS>
 #! </BREAKPOINTS>
 #! <ATTR_LINKS>
+#! <ATTR_LINK
+#!   IDENTIFIER="65569"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="11"
+#!   SOURCE_PORT_DESC="ao 0 14 COLORED"
+#!   TARGET_PORT_DESC="16"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="131117"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="32"
+#!   SOURCE_PORT_DESC="ao 0 6 COLORED"
+#!   TARGET_PORT_DESC="6"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="262189"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="32"
+#!   SOURCE_PORT_DESC="ao 0 3 COLORED"
+#!   TARGET_PORT_DESC="3"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="327725"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="32"
+#!   SOURCE_PORT_DESC="ao 0 5 COLORED"
+#!   TARGET_PORT_DESC="5"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="65581"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="32"
+#!   SOURCE_PORT_DESC="ao 0 4 COLORED"
+#!   TARGET_PORT_DESC="4"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="196653"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="32"
+#!   SOURCE_PORT_DESC="ao 0 11 COLORED"
+#!   TARGET_PORT_DESC="11"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="65580"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="6"
+#!   SOURCE_PORT_DESC="ao 0 4 COLORED"
+#!   TARGET_PORT_DESC="4"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="196652"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="6"
+#!   SOURCE_PORT_DESC="ao 0 11 COLORED"
+#!   TARGET_PORT_DESC="11"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="131116"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="6"
+#!   SOURCE_PORT_DESC="ao 0 6 COLORED"
+#!   TARGET_PORT_DESC="6"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="262188"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="6"
+#!   SOURCE_PORT_DESC="ao 0 3 COLORED"
+#!   TARGET_PORT_DESC="3"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="393260"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="6"
+#!   SOURCE_PORT_DESC="ao 0 14 COLORED"
+#!   TARGET_PORT_DESC="16"
+#! />
+#! <ATTR_LINK
+#!   IDENTIFIER="327724"
+#!   SOURCE_NODE="31"
+#!   TARGET_NODE="6"
+#!   SOURCE_PORT_DESC="ao 0 5 COLORED"
+#!   TARGET_PORT_DESC="5"
+#! />
 #! </ATTR_LINKS>
 #! <SUBDOCUMENTS>
 #! </SUBDOCUMENTS>
@@ -3621,26 +3663,26 @@ FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeCreator__inspire_thema_i
 # -------------------------------------------------------------------------
 FACTORY_DEF {*} FeatureJoinerFactory    FACTORY_NAME FeatureJoiner    FLUSH_WHEN_GROUPS_CHANGE No    INPUT LEFT FEATURE_TYPE UtilityLink_GML_1    INPUT RIGHT FEATURE_TYPE AttributeCreator__inspire_thema_id_OUTPUT    JOIN_MODE Inner    JOIN_KEYS inNetwork<opencurly>0<closecurly>.xlink_href inspire_thema_id AUTO    ATTR_CONFLICT_RES USE_LEFT    GEOMETRY_HANDLING USE_LEFT    OUTPUT JOINED FEATURE_TYPE FeatureJoiner_JOINED    OUTPUT <REJECTED> FEATURE_TYPE FeatureJoiner_<REJECTED>
 # -------------------------------------------------------------------------
-Tcl2 set AttributeSplitter_ac525f5b_0910_448e_9f16_f9742549abf82_splitDelim [FME_DecodeText {<solidus>}];      if { [regexp {^([1-9][0-9]*s)+$} [set AttributeSplitter_ac525f5b_0910_448e_9f16_f9742549abf82_splitDelim]] }      {         set AttributeSplitter_ac525f5b_0910_448e_9f16_f9742549abf82_splitWidths [split [regsub -all {s$} {<solidus>} {}] s];         proc AttributeSplitter_doSplit {}         {            global AttributeSplitter_ac525f5b_0910_448e_9f16_f9742549abf82_splitWidths;            set source [FME_GetAttribute [FME_DecodeText {thema.xlink_href}]];            set attrNum 0;            set listName [FME_DecodeText {_thema}];            set attrPos 0;            set keepEmptyParts [string equal {No} {No}];            foreach width [set AttributeSplitter_ac525f5b_0910_448e_9f16_f9742549abf82_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               set part [string trim $bit];               if { $keepEmptyParts || $part != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $part;                  incr attrNum;               };               incr attrPos $width;            };         };      }      else      {         proc AttributeSplitter_doSplit {}         {            global AttributeSplitter_ac525f5b_0910_448e_9f16_f9742549abf82_splitDelim;            set delim [set AttributeSplitter_ac525f5b_0910_448e_9f16_f9742549abf82_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute [FME_DecodeText {thema.xlink_href}]];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              lappend bits [string range $source $startIndex [expr $nextIndex-1]];              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            lappend bits [string range $source $startIndex end];            set listName [FME_DecodeText {_thema}];            set attrNum 0;            foreach bit $bits            {               set trimmedPart [string trim $bit];               if { $keepEmptyParts || $trimmedPart != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $trimmedPart;                  incr attrNum;               };            }          }       }
+Tcl2 set AttributeSplitter_fb4e9f03_9b59_4467_a677_9ffa8584850b3_splitDelim [FME_DecodeText {<solidus>}];      if { [regexp {^([1-9][0-9]*s)+$} [set AttributeSplitter_fb4e9f03_9b59_4467_a677_9ffa8584850b3_splitDelim]] }      {         set AttributeSplitter_fb4e9f03_9b59_4467_a677_9ffa8584850b3_splitWidths [split [regsub -all {s$} {<solidus>} {}] s];         proc AttributeSplitter_doSplit {}         {            global AttributeSplitter_fb4e9f03_9b59_4467_a677_9ffa8584850b3_splitWidths;            set source [FME_GetAttribute [FME_DecodeText {thema.xlink_href}]];            set attrNum 0;            set listName [FME_DecodeText {_thema}];            set attrPos 0;            set keepEmptyParts [string equal {No} {No}];            foreach width [set AttributeSplitter_fb4e9f03_9b59_4467_a677_9ffa8584850b3_splitWidths]            {               set endPos [expr $attrPos + $width - 1];               set bit [string range $source $attrPos $endPos];               set part [string trim $bit];               if { $keepEmptyParts || $part != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $part;                  incr attrNum;               };               incr attrPos $width;            };         };      }      else      {         proc AttributeSplitter_doSplit {}         {            global AttributeSplitter_fb4e9f03_9b59_4467_a677_9ffa8584850b3_splitDelim;            set delim [set AttributeSplitter_fb4e9f03_9b59_4467_a677_9ffa8584850b3_splitDelim];            set delimLength [string length $delim];            set source [FME_GetAttribute [FME_DecodeText {thema.xlink_href}]];            set keepEmptyParts [string equal {No} {No}];            set bits {};            set startIndex 0;            set nextIndex [string first $delim $source $startIndex];            while {$nextIndex >= 0} {              lappend bits [string range $source $startIndex [expr $nextIndex-1]];              set startIndex [expr $nextIndex + $delimLength];              set nextIndex [string first $delim $source $startIndex];            };            lappend bits [string range $source $startIndex end];            set listName [FME_DecodeText {_thema}];            set attrNum 0;            foreach bit $bits            {               set trimmedPart [string trim $bit];               if { $keepEmptyParts || $trimmedPart != \"\" } {                  FME_SetAttribute "$listName{$attrNum}" $trimmedPart;                  incr attrNum;               };            }          }       }
 FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeSplitter    INPUT  FEATURE_TYPE FeatureJoiner_JOINED    OUTPUT FEATURE_TYPE AttributeSplitter_OUTPUT         @Tcl2(AttributeSplitter_doSplit)
 # -------------------------------------------------------------------------
 FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeCreator    COMMAND_PARM_EVALUATION SINGLE_PASS    INPUT  FEATURE_TYPE AttributeSplitter_OUTPUT    MULTI_FEATURE_MODE NO    NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV     ATTR_ACTION { "" "thema" "SET_TO" "<at>Value<openparen>_thema<opencurly>7<closecurly><closeparen>" }      ATTR_ACTION { "" "netbeheerder" "SET_TO" "<at>Value<openparen>inNetwork<opencurly>0<closecurly>.xlink_href<closeparen>" }      ATTR_ACTION { "" "layerName" "SET_TO" "LG_<at>Value<openparen>_thema<opencurly>7<closecurly><closeparen>_<at>Value<openparen>inspire_thema_id<closeparen>" }    OUTPUT OUTPUT FEATURE_TYPE AttributeCreator_OUTPUT
 # -------------------------------------------------------------------------
-Lookup AttributeValueMapper_LOOKUP_TABLE   datatransport   0<comma>255<comma>0   gasLageDruk     255<comma>215<comma>80   gasHogeDruk     255<comma>175<comma>60   buisleidingGevaarlijkeInhoud 255<comma>127<comma>0   landelijkHoogspanningsnet 255<comma>0<comma>0   hoogspanning    255<comma>0<comma>0   middenspanning  200<comma>0<comma>0   laagspanning    150<comma>0<comma>0   petrochemie     182<comma>74<comma>0   rioolVrijVerval 186<comma>56<comma>168   rioolOnderDruk  128<comma>0<comma>128   rioolOnderOverOfOnderdruk 128<comma>0<comma>128   warmte          0<comma>128<comma>128   water           0<comma>0<comma>255   wees            0<comma>0<comma>0   overig          0<comma>0<comma>0   ""              #000000   ENCODED_SUPPORTUNICODE
+Lookup AttributeValueMapper_LOOKUP_TABLE   datatransport   0<comma>1<comma>0   gasLageDruk     1<comma>0.84<comma>0.31   gasHogeDruk     1<comma>0.686<comma>0.23   buisleidingGevaarlijkeInhoud 1<comma>0.5<comma>0   landelijkHoogspanningsnet 1<comma>0<comma>0   hoogspanning    1<comma>0<comma>0   middenspanning  0.784<comma>0<comma>0   laagspanning    0.588<comma>0<comma>0   petrochemie     1.41<comma>0.29<comma>0   rioolVrijVerval 0.73<comma>0.22<comma>0.66   rioolOnderDruk  0.5<comma>0<comma>0.5   rioolOnderOverOfOnderdruk 0.5<comma>0<comma>0.5   warmte          0.5<comma>0<comma>0.5   water           0<comma>0<comma>1   wees            0<comma>0<comma>0   overig          0<comma>0<comma>0   ""              #000000   ENCODED_SUPPORTUNICODE
 FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeValueMapper    INPUT  FEATURE_TYPE AttributeCreator_OUTPUT    OUTPUT FEATURE_TYPE AttributeValueMapper_OUTPUT         @Lookup(AttributeValueMapper_LOOKUP_TABLE,"thema",FORWARD|ENCODED_ATTR|REAL_NULL_SUPPORT, thema_color)
 # -------------------------------------------------------------------------
 FACTORY_DEF {*} NeighborColorSetterFactory    FACTORY_NAME FeatureColorSetter    INPUT  FEATURE_TYPE AttributeValueMapper_OUTPUT    FLUSH_WHEN_GROUPS_CHANGE No    ALGORITHM MANUAL    RANDOM_MODE <Unused>    RANDOM_COLOR_CAP "<Unused>"    PEN_COLOR "@EvaluateExpression(FDIV,STRING,<at>Value<openparen>thema_color<closeparen>,FeatureColorSetter)"    FILL_COLOR "@EvaluateExpression(FDIV,STRING,<at>Value<openparen>thema_color<closeparen>,FeatureColorSetter)"    REJECT_INVALID_PARAMS Yes    OUTPUT COLORED FEATURE_TYPE FeatureColorSetter_COLORED    OUTPUT REJECTED FEATURE_TYPE FeatureColorSetter_<REJECTED>
 FACTORY_DEF * TeeFactory   FACTORY_NAME "FeatureColorSetter COLORED Splitter"   INPUT FEATURE_TYPE FeatureColorSetter_COLORED   OUTPUT FEATURE_TYPE FeatureColorSetter_COLORED_0_uF+/4BM0YvU=   OUTPUT FEATURE_TYPE FeatureColorSetter_COLORED_1_BKLVaYgGQ4Q=   OUTPUT FEATURE_TYPE FeatureColorSetter_COLORED_2_WtgmKv93WGI=
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC FeatureColorSetter_COLORED_2_WtgmKv93WGI= TO ACAD __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>fme_template_feature_type<comma>Layer1<closeparen>,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Layer1<closeparen>,<at>EvaluateExpression<openparen>ATTR_CREATE_EXPR<comma>__wb_out_feat_type__<comma><lt>at<gt>Value<lt>openparen<gt>fme_feature_type<lt>closeparen<gt><comma>Layer1<closeparen> GEOMETRY    ROUTE FME_GENERIC FeatureColorSetter_<REJECTED> TO NULL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,3,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>NULL<closeparen> GEOMETRY    ROUTE FME_GENERIC FeatureJoiner_<REJECTED> TO NULL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,3,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>NULL<closeparen> GEOMETRY    ROUTE FME_GENERIC FeatureColorSetter_COLORED_1_BKLVaYgGQ4Q= TO DGNV8 __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>fme_template_feature_type<comma>UtilityLink<closeparen>,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>UtilityLink<closeparen>,<at>EvaluateExpression<openparen>ATTR_CREATE_EXPR<comma>__wb_out_feat_type__<comma><lt>at<gt>Value<lt>openparen<gt>fme_feature_type<lt>closeparen<gt><comma>UtilityLink<closeparen> GEOMETRY    ROUTE FME_GENERIC FeatureColorSetter_COLORED_0_uF+/4BM0YvU= TO ACAD __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,2,<at>SupplyAttributes<openparen>ENCODED<comma>fme_template_feature_type<comma>UtilityLink<closeparen>,<at>EvaluateExpression<openparen>ATTR_CREATE_EXPR<comma>__wb_out_feat_type__<comma><lt>at<gt>Value<lt>openparen<gt>layerName<lt>closeparen<gt><comma>UtilityLink<closeparen> GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
+FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC FeatureColorSetter_COLORED_2_WtgmKv93WGI= TO ACAD __GO_TO_FINAL_OUTPUT_ROUTER__ <at>CopyAttributes<openparen>ENCODED<comma>inspireId_Identifier_localId<comma>inspireId.Identifier.localId<comma>inNetwork<lt>opencurly<gt><lt>closecurly<gt>_xlink_href<comma>inNetwork<lt>opencurly<gt><lt>closecurly<gt>.xlink_href<comma>endNode_gml_remoteSchema<comma>endNode.gml_remoteSchema<comma>startNode_gml_remoteSchema<comma>startNode.gml_remoteSchema<comma>thema_xlink_href<comma>thema.xlink_href<comma>autocad_color<comma>fme_color<closeparen>,multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>fme_template_feature_type<comma>Layer1<closeparen>,<at>EvaluateExpression<openparen>ATTR_CREATE_EXPR<comma>__wb_out_feat_type__<comma><lt>at<gt>Value<lt>openparen<gt>layerName<lt>closeparen<gt><comma>Layer1<closeparen> GEOMETRY    ROUTE FME_GENERIC FeatureColorSetter_COLORED_1_BKLVaYgGQ4Q= TO ACAD __GO_TO_FINAL_OUTPUT_ROUTER__ <at>CopyAttributes<openparen>ENCODED<comma>inspireId_Identifier_localId<comma>inspireId.Identifier.localId<comma>inNetwork<lt>opencurly<gt><lt>closecurly<gt>_xlink_href<comma>inNetwork<lt>opencurly<gt><lt>closecurly<gt>.xlink_href<comma>endNode_gml_remoteSchema<comma>endNode.gml_remoteSchema<comma>startNode_gml_remoteSchema<comma>startNode.gml_remoteSchema<comma>thema_xlink_href<comma>thema.xlink_href<closeparen>,multi_writer_id,2,<at>SupplyAttributes<openparen>ENCODED<comma>fme_template_feature_type<comma>UtilityLink<closeparen>,<at>EvaluateExpression<openparen>ATTR_CREATE_EXPR<comma>__wb_out_feat_type__<comma><lt>at<gt>Value<lt>openparen<gt>layerName<lt>closeparen<gt><comma>UtilityLink<closeparen> GEOMETRY    ROUTE FME_GENERIC FeatureColorSetter_<REJECTED> TO NULL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,3,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>NULL<closeparen> GEOMETRY    ROUTE FME_GENERIC FeatureJoiner_<REJECTED> TO NULL __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,3,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>NULL<closeparen> GEOMETRY    ROUTE FME_GENERIC FeatureColorSetter_COLORED_0_uF+/4BM0YvU= TO DGNV8 __GO_TO_FINAL_OUTPUT_ROUTER__ <at>CopyAttributes<openparen>ENCODED<comma>igds_color<comma>fme_color<closeparen>,multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>fme_template_feature_type<comma>UtilityLink<closeparen>,<at>EvaluateExpression<openparen>ATTR_CREATE_EXPR<comma>__wb_out_feat_type__<comma><lt>at<gt>Value<lt>openparen<gt>layerName<lt>closeparen<gt><comma>UtilityLink<closeparen> GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYPE __nuke_me__
 
 # -------------------------------------------------------------------------
-ACAD_1_DEF_TEMPLATE Layer1   autocad_color                10   autocad_linetype             CONTINUOUS   autocad_layer_frozen         No   autocad_layer_hidden         No   autocad_layer_locked         No   autocad_layer_on             Yes   autocad_layer_plottable      Yes   autocad_layer_desc           ""   fme_schema_readers           GML_1   fme_schema_feature_first     No
+ACAD_1_DEF Layer1   autocad_color                10   autocad_linetype             CONTINUOUS   autocad_layer_frozen         No   autocad_layer_hidden         No   autocad_layer_locked         No   autocad_layer_on             Yes   autocad_layer_plottable      Yes   autocad_layer_desc           ""   thema                        char(200)   netbeheerder                 char(200)   layerName                    char(200)   inspireId_Identifier_localId string   inNetwork{}_xlink_href       string   endNode_gml_remoteSchema     string   startNode_gml_remoteSchema   string   gml_parent_id                string   gml_parent_property          string   gml_id                       string   inspire_thema_id             char(200)   thema_xlink_href             string   _thema{}                     char(200)   thema_color                  char(200)
 # -------------------------------------------------------------------------
-DGNV8_1_DEF_TEMPLATE UtilityLink   igds_level                   ""   igds_level_comment           ""   igds_level_color             ""   igds_level_style             ""   igds_level_weight            ""   igds_level_display           Yes   igds_level_freeze            No   igds_level_lock              No   igds_level_override_color    From_Seed_File   igds_use_level_override_color From_Seed_File   igds_level_override_style    From_Seed_File   igds_use_level_override_style From_Seed_File   igds_level_override_weight   From_Seed_File   igds_use_level_override_weight From_Seed_File   fme_schema_readers           "GML_1              "   fme_schema_feature_first     Yes   gml_parent_id                string   gml_parent_property          string   gml_id                       string   beginLifespanVersion         string   beginLifespanVersion.nilReason string   beginLifespanVersion.xsi_nil char(5)   inspireId.Identifier.localId string   inspireId.Identifier.namespace string   inspireId.Identifier.versionId string   inspireId.Identifier.versionId.nilReason string   inspireId.Identifier.versionId.xsi_nil char(5)   endLifespanVersion           string   endLifespanVersion.nilReason string   endLifespanVersion.xsi_nil   char(5)   inNetwork{}.owns             char(5)   inNetwork{}.nilReason        string   inNetwork{}.gml_remoteSchema string   inNetwork{}.xlink_href       string   inNetwork{}.xlink_role       string   inNetwork{}.xlink_title      string   inNetwork{}.xsi_nil          char(5)   centrelineGeometry           string   fictitious                   char(5)   endNode.owns                 char(5)   endNode.nilReason            string   endNode.gml_remoteSchema     string   endNode.xlink_href           string   endNode.xlink_role           string   endNode.xlink_title          string   startNode.owns               char(5)   startNode.nilReason          string   startNode.gml_remoteSchema   string   startNode.xlink_href         string   startNode.xlink_role         string   startNode.xlink_title        string   currentStatus.owns           char(5)   currentStatus.nilReason      string   currentStatus.gml_remoteSchema string   currentStatus.xlink_href     string   currentStatus.xlink_role     string   currentStatus.xlink_title    string   currentStatus.xsi_nil        char(5)   validFrom                    string   validFrom.nilReason          string   validFrom.xsi_nil            char(5)   validTo                      string   validTo.nilReason            string   validTo.xsi_nil              char(5)   verticalPosition             char(19)   verticalPosition.nilReason   string   verticalPosition.xsi_nil     char(5)   utilityFacilityReference.nilReason string   utilityFacilityReference.gml_remoteSchema string   utilityFacilityReference.xlink_href string   utilityFacilityReference.xlink_role string   utilityFacilityReference.xlink_title string   utilityFacilityReference.owns char(5)   utilityFacilityReference.xsi_nil char(5)   governmentalServiceReference.nilReason string   governmentalServiceReference.gml_remoteSchema string   governmentalServiceReference.xlink_href string   governmentalServiceReference.xlink_role string   governmentalServiceReference.xlink_title string   governmentalServiceReference.owns char(5)   governmentalServiceReference.xsi_nil char(5)
+DGNV8_1_DEF UtilityLink   igds_level                   ""   igds_level_comment           ""   igds_level_color             ""   igds_level_style             ""   igds_level_weight            ""   igds_level_display           Yes   igds_level_freeze            No   igds_level_lock              No   igds_level_override_color    From_Seed_File   igds_use_level_override_color From_Seed_File   igds_level_override_style    From_Seed_File   igds_use_level_override_style From_Seed_File   igds_level_override_weight   From_Seed_File   igds_use_level_override_weight From_Seed_File   thema                        char(200)   netbeheerder                 char(200)   layerName                    char(200)   inspireId.Identifier.localId string   inNetwork{}.xlink_href       string   endNode.gml_remoteSchema     string   startNode.gml_remoteSchema   string   gml_parent_id                string   gml_parent_property          string   gml_id                       string   inspire_thema_id             char(200)   thema.xlink_href             string   _thema{}                     char(200)   thema_color                  char(200)
 # -------------------------------------------------------------------------
-ACAD_2_DEF UtilityLink   autocad_color                10   autocad_linetype             CONTINUOUS   autocad_layer_frozen         No   autocad_layer_hidden         No   autocad_layer_locked         No   autocad_layer_on             Yes   autocad_layer_plottable      Yes   autocad_layer_desc           @Value(layerName)   inspireId_Identifier_localId string   inNetwork{}_xlink_href       string   endNode_gml_remoteSchema     string   startNode_gml_remoteSchema   string   gml_parent_id                string   gml_parent_property          string   gml_id                       string   thema                        string   netbeheerder                 string
+ACAD_2_DEF UtilityLink   autocad_color                10   autocad_linetype             CONTINUOUS   autocad_layer_frozen         No   autocad_layer_hidden         No   autocad_layer_locked         No   autocad_layer_on             Yes   autocad_layer_plottable      Yes   autocad_layer_desc           @Value(layerName)   thema                        string   netbeheerder                 string   layerName                    char(200)   inspireId_Identifier_localId string   inNetwork{}_xlink_href       string   endNode_gml_remoteSchema     string   startNode_gml_remoteSchema   string   gml_parent_id                string   gml_parent_property          string   gml_id                       string   inspire_thema_id             char(200)   thema_xlink_href             string   _thema{}                     char(200)   thema_color                  char(200)
