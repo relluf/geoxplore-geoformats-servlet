@@ -4,5 +4,5 @@ date /t >> D:\apps\GeoFormats\fmw\gx-klicvectorizer.log
 time /t >> D:\apps\GeoFormats\fmw\gx-klicvectorizer.log
 echo IN: %1 >> D:\apps\GeoFormats\fmw\gx-klicvectorizer.log
 echo OUT: %2 >> D:\apps\GeoFormats\fmw\gx-klicvectorizer.log
-echo FORMAT: SHAPE
+echo FORMAT: DXF
 "C:\Program Files\FME\fme.exe" D:\apps\GeoFormats\KV-dxf.fmw --GML_INPUT_FILE %1  --GML_INPUT_FILE_3 %1 --DestDataset_SHAPEFILE %2 >> D:\apps\GeoFormats\fmw\gx-klicvectorizer.log 2>&1
